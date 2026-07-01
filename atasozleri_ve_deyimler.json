@@ -1,0 +1,4157 @@
+[
+  {
+    "id": 31,
+    "soz": "Aba altında er yatar",
+    "anlami": "Bir insanın değeri giyimiyle kuşamıyla ölçülemez."
+  },
+  {
+    "id": 2,
+    "soz": "Aba vakti aba, yaba vakti yaba",
+    "anlami": "Gereksinimler vaktinden önce ve ucuz olduğu zaman karşılanmalıdır."
+  },
+  {
+    "id": 3,
+    "soz": "Abanın kadri yağmurda bilinir",
+    "anlami": "Bir şeyin gerçek değeri ona gereksinim duyulduğunda anlaşılır."
+  },
+  {
+    "id": 4,
+    "soz": "Acele ile menzil alınmaz",
+    "anlami": "İvmekle daha çabuk sonuç alınır sanılmamalıdır."
+  },
+  {
+    "id": 5,
+    "soz": "Acele yürüyen yolda kalır",
+    "anlami": "İş yaparken acele eden şaşırır, işini bitiremez .6-Acı acıyı keser, su sancıyı : Bir güçlüğü yenmek için başka bir güç yola başvurulmalıdır."
+  },
+  {
+    "id": 7,
+    "soz": "Acı patlıcanı kırağı çalmaz",
+    "anlami": "Herhangi bir duruma alışkın olan kimseyi benzer kötü durumlar etkilemez."
+  },
+  {
+    "id": 8,
+    "soz": "Acıkan ne olsa yer, acıyan ne olsa söyler",
+    "anlami": "Geçim sıkıntısı yaşayan kimse sıkıntısını gidermek için türlü yollara başvurur, canı yanan ise sonunu düşünmeden ağzına geleni söyler"
+  },
+  {
+    "id": 9,
+    "soz": "Acıkmış kudurmuştan beterdir",
+    "anlami": "Uzun süre bir nesnenin yokluğunu çeken kimse, onu gördüğünde büyük bir istekle ona saldırır. - ATASÖZLERİ -"
+  },
+  {
+    "id": 410,
+    "soz": "Acıyan uyumuş, acıkan uyumamış",
+    "anlami": "Her türlü sıkıntıya katlanılır, açlığa katlanılmaz."
+  },
+  {
+    "id": 11,
+    "soz": "Aç aman bilmez, çocuk zaman bilmez",
+    "anlami": "Aç hiçbir mazeretle susturulamaz, çocuk da istediği şeyi hemen elde etmek ister."
+  },
+  {
+    "id": 12,
+    "soz": "Aç kurt aslana saldırır",
+    "anlami": "Açın gözü kararmıştır, karnını doyurmak için ölümü bile göze alarak kendisinden kat kat güçlü olan yaratıklarla boğuşur."
+  },
+  {
+    "id": 13,
+    "soz": "Aç tavuk kendini arpa ambarında sanır",
+    "anlami": "İnsanlar , yokluğunu, yoksulluğunu çektikleri şeyler için olmayacak hayaller, düşler kurar.14-Açık yaraya tuz ekilmez : Acısı henüz taze olan bir kimsenin üzüntüsü, birtakım söz ve davranışlarla artırılmamalıdır ."
+  },
+  {
+    "id": 15,
+    "soz": "Adam adama yük değil, can gövdeye mülk değil",
+    "anlami": "Konuğumuzdan veya yanımıza bir iş için gelen kimseden yüksünmemeliyiz çünkü onlar yanımızda sürekli olarak kalmazlar."
+  },
+  {
+    "id": 16,
+    "soz": "Adam adamı bir kez aldatır",
+    "anlami": "Bir kimse başka bir kimseyi ancak bir kez aldatabilir, diğeri bir daha aldatmasına izin vermez."
+  },
+  {
+    "id": 17,
+    "soz": "Adam olana bir söz yeter",
+    "anlami": "Anlayışlı olan kimse için bir şeyin bir kez söylenmesi yeterli olur . - ATASÖZLERİ -"
+  },
+  {
+    "id": 518,
+    "soz": "Adamak kolay, ödemek zordur",
+    "anlami": "Söz vermek kolaydır ancak o sözü yerine getirmek zordur."
+  },
+  {
+    "id": 19,
+    "soz": "Adamın yere bakanından, suyun yavaş akanından kork",
+    "anlami": "Duygu ve düşüncelerini açığa vurmayan sessiz insan yavaş akan derin su gibi tehlikelidir."
+  },
+  {
+    "id": 20,
+    "soz": "Adı çıkmış dokuza, inmez sekize",
+    "anlami": "Birinin bir kere adı çıktıktan sonra onun hakkındaki yaygın inanç artık kolay kolay düzelemez ."
+  },
+  {
+    "id": 21,
+    "soz": "Ağaca balta vurmuşlar “sapı bedenimden” demiş",
+    "anlami": "İnsana en yakını bile kötülük edebilir .22-Ağaca çıkan keçinin dala bakan oğlağı olur : Çocuklar ana ve babalarından öğrendiklerini yapmaya özenirler."
+  },
+  {
+    "id": 23,
+    "soz": "Ağaca dayanma kurur, adama insana dayanma ölür",
+    "anlami": "İnsan yapacağı işte başkalarına değil, kendine güvenmelidir."
+  },
+  {
+    "id": 24,
+    "soz": "Ağaca çıksa pabucu yerde kalmaz",
+    "anlami": "Davranışlarına engel olacak hiçbir takıntısı yok."
+  },
+  {
+    "id": 25,
+    "soz": "Ağacı kurt, insanı dert yer",
+    "anlami": "Kurt ağacı nasıl içten içe kemirirse dert de insanı içten içe yer bitirir . - ATASÖZLERİ -"
+  },
+  {
+    "id": 626,
+    "soz": "Ağacın kurdu içinde olur",
+    "anlami": "Bir topluluğu çökertecek olan şey yine kendi içinden çıkar."
+  },
+  {
+    "id": 27,
+    "soz": "Ağaç kökünden yıkılır",
+    "anlami": "Bir düzen, ayrıntıların değişmesiyle değil temelinin bozulmasıyla yıkılır."
+  },
+  {
+    "id": 28,
+    "soz": "Ağaç meyvesi olunca başını aşağı salar",
+    "anlami": "Yararlı eserler veren, bilgi ve erdemle donanmış kimse alçak gönüllü olur."
+  },
+  {
+    "id": 29,
+    "soz": "Ağaç ne kadar uzarsa göğe ermez",
+    "anlami": "İnsan ne kadar yükselirse yükselsin bir yerde durur."
+  },
+  {
+    "id": 30,
+    "soz": "Ağaç yaşken eğilir",
+    "anlami": "İnsanlar küçük yaşta kolay eğitilir.31-Ağaçtan maşa olmaz : Yeteneksiz , beceriksiz kimse önemli işlerde kullanılamaz."
+  },
+  {
+    "id": 32,
+    "soz": "Ağır git ki yol alasın",
+    "anlami": "Bir işte başarılı olmak isteyen kimse, ağır ağır ama güvenilir adımlarla yürümelidir."
+  },
+  {
+    "id": 33,
+    "soz": "Ağır otur ki bey desinler",
+    "anlami": "Ağırbaşlı ol ki büyüğümüz diye sana saygı göstersinler."
+  },
+  {
+    "id": 34,
+    "soz": "Ağlama ölü için, ağla deli için",
+    "anlami": "Yakınlarından biri ölenin acısı zamanla küllenir ancak bir yakını deli olanın acısı hiçbir zaman dinmez."
+  },
+  {
+    "id": 35,
+    "soz": "Ağır kazan geç kaynar",
+    "anlami": "Üzülmenin yararı olmaz . - ATASÖZLERİ -"
+  },
+  {
+    "id": 736,
+    "soz": "Ağlamakla yâr ele geçmez",
+    "anlami": "Kişi çok sevdiği şeye yalnızca özlemini çekmekle kavuşamaz, onu elde etmenin yollarını bulmalıdır."
+  },
+  {
+    "id": 37,
+    "soz": "Ağlamayan çocuğa meme vermezler",
+    "anlami": "Hakkını aramasını bilmeyen kimsenin işi görülmez."
+  },
+  {
+    "id": 38,
+    "soz": "Ağlar gözden, sahte sözden kendini sakın",
+    "anlami": "Kendini acındıranlardan kork."
+  },
+  {
+    "id": 39,
+    "soz": "Ağlarsa anam ağlar, gayrısı yalan ağlar",
+    "anlami": "İnsanın sıkıntısını yürekten paylaşan yalnızca annesidir, diğerlerinin üzülmesi yüzeyseldir.40-Ağlayanın malı gülene hayır etmez : Birinden haksız olarak alınan mal, alana yarar sağlamaz."
+  },
+  {
+    "id": 41,
+    "soz": "Ağrısız baş mezarda olur",
+    "anlami": "Herkesin bir sıkıntısı vardır, bu sıkıntılar ancak ölümle biter."
+  },
+  {
+    "id": 42,
+    "soz": "Ağustosta beyni kaynayanın zemheride kazanı kaynar",
+    "anlami": "Yazın çalışan kışın rahat eder."
+  },
+  {
+    "id": 43,
+    "soz": "Ağustosta gölge kovan zemheride karnın ovar",
+    "anlami": "Elinde fırsat varken geleceğini sağlamaya gayret göstermeyip eğlenceye, keyfe dalan kimse sonunda aç kalır ve perişan olur . - ATASÖZLERİ -"
+  },
+  {
+    "id": 844,
+    "soz": "Ağustosun yarısı yaz, yarısı kıştır",
+    "anlami": "Ağustos ayının ortalarında yaz sıcakları azalır, serinlik başlar."
+  },
+  {
+    "id": 45,
+    "soz": "Ahbap kusuruna bakan ahbapsız kalır",
+    "anlami": "Dostların ufak tefek kusurlarına bakmamak gerekir."
+  },
+  {
+    "id": 46,
+    "soz": "Akacak kan damarda durmaz",
+    "anlami": "Kişi, alın yazısında olanla kesinlikle karşılaşır."
+  },
+  {
+    "id": 47,
+    "soz": "Ak akçe kara gün içindir",
+    "anlami": "Çalışarak kazandığımız para, dar zamanımızda bizi sıkıntıdan kurtarır."
+  },
+  {
+    "id": 48,
+    "soz": "Ak gün ağartır, kara gün karartır",
+    "anlami": "Mutlu bir yaşayış kişiyi dinç kılar, mutsuz bir yaşam ise yıpratır .49-Ak koyun ara koyun geçit başında belli olur : Kimin ne olduğu deney veya sınav sonunda anlaşılır."
+  },
+  {
+    "id": 50,
+    "soz": "Ak koyunu gören içi dolu yağ sanır",
+    "anlami": "Bir şeyin dış görünüşüne bakarak içinin de öyle olduğunu sananlar yanılırlar."
+  },
+  {
+    "id": 51,
+    "soz": "Ak koyunun kara kuzusu da olur",
+    "anlami": "İyi bir ailenin çocuğu kötü de olabilir."
+  },
+  {
+    "id": 52,
+    "soz": "Akıl yaşta değil baştadır",
+    "anlami": "Akıllı olmanın yaşla ilgisi yoktur, bazı küçükler büyüklerden daha akıllı olabilir . - ATASÖZLERİ -"
+  },
+  {
+    "id": 953,
+    "soz": "Akıllı köprü arayıncaya dek deli suyu geçer",
+    "anlami": "Atak kişi tehlikeyi göze alarak işe girişir ve çabuk sonuç alır."
+  },
+  {
+    "id": 54,
+    "soz": "Akılsız başın cezasını ayaklar çeker",
+    "anlami": "Bir işte düşüncesizce davranan kişi her türlü olumsuz sonuca katlanır."
+  },
+  {
+    "id": 55,
+    "soz": "Aksak eşekle yüksek dağa çıkılmaz",
+    "anlami": "Eksik aletle sağlıklı iş yapılmaz."
+  },
+  {
+    "id": 56,
+    "soz": "Akşamın hayrından sabahın şerri iyidir",
+    "anlami": "İşinizi akşamüzeri veya gece yapmayın, sabaha bırakın çünkü gece iş yapmanın kötü yönleri daha çoktur."
+  },
+  {
+    "id": 57,
+    "soz": "Al elmaya taş atan çok olur",
+    "anlami": "Değerli kimselere sataşan çok olur.58-Al malın iyisini, çekme kaygısını : Malın iyisini alan, onu tasasız kullanır."
+  },
+  {
+    "id": 59,
+    "soz": "Alçak yerde yatma sel alır, yüksek yerde yatma yel alır",
+    "anlami": "İnsan kendi durumuna göre bir yaşam tarzı benimsemeli, arkadaşlarını da ona göre seçmelidir ."
+  },
+  {
+    "id": 60,
+    "soz": "Alıcı kuşun ömrü az olur",
+    "anlami": "Başkalarına saldırmayı alışkanlık edinen kimsenin düşmanı çok olur, bu düşmanlar onun canına kıyarlar."
+  },
+  {
+    "id": 61,
+    "soz": "Alışmış kudurmuştan beterdir",
+    "anlami": "Alışılan bir şeyden kolayca vazgeçilmez . - ATASÖZLERİ - 1062-Allah Halil İbrahim bereketi versin : Allah çok versin, bereket versin."
+  },
+  {
+    "id": 63,
+    "soz": "Allah kardeşi kardeş yaratmış, kesesini ayrı yaratmış",
+    "anlami": "Geçim konusunda kimse kimseye yük olmamalıdır."
+  },
+  {
+    "id": 64,
+    "soz": "Allah kulunu kısmeti ile yaratır",
+    "anlami": "Bu dünyada herkesin dar veya geniş, bir geçim yolu vardır."
+  },
+  {
+    "id": 65,
+    "soz": "Allah verirse el getirir, sel getirir, yel getirir",
+    "anlami": "Tanrı bir kimseyi zengin etmek isterse ona hiç umulmadık yerden mal ve para gelir .67-Alma mazlumun ahını, çıkar aheste aheste : Kimseye eziyet edip ahını alma, sonra yaptığın kötülüklerin cezasını ömür boyu çekersin ."
+  },
+  {
+    "id": 68,
+    "soz": "Almadan vermek Allah'a mahsustur",
+    "anlami": "İnsan yaptığı herhangi bir şey için mutlaka karşılık bekler."
+  },
+  {
+    "id": 69,
+    "soz": "Altı olur, yedi olur, hep Allah'ın dediği olur",
+    "anlami": "Önceden ne kadar hesap yapılırsa yapılsın, sonunda Tanrı'nın dilediği olur."
+  },
+  {
+    "id": 70,
+    "soz": "Altın eşik gümüş eşiğe muhtaç olur",
+    "anlami": "Hiç kimse zenginliğine güvenmemelidir, gün gelir yoksullaşır ve fakir kimseye muhtaç olur. - ATASÖZLERİ -"
+  },
+  {
+    "id": 66,
+    "soz": "Allah'ın bildiği kuldan saklanmaz",
+    "anlami": "Kişi işlediği suçtan dolayı önce Tanrı'ya karşı sorumludur ve bu suçu da Tanrı bilir, bu nedenle onu kuldan saklamak gerekmez. 1171-Altın yerde paslanmaz, taş yağmurdan ıslanmaz : Değerli kişi veya nesneler, ne türlü uygunsuz koşullar içinde bulunurlarsa bulunsunlar değerlerini ve niteliklerini yitirmezler."
+  },
+  {
+    "id": 72,
+    "soz": "Altın yere düşmekle pul olmaz",
+    "anlami": "Üstün nitelikli kişinin değeri, bulunduğu yerden uzaklaştırılmasıyla azalmaz."
+  },
+  {
+    "id": 73,
+    "soz": "Altının kıymetini sarraf bilir",
+    "anlami": "Bir kimsenin, bir şeyin değerini ancak o konuda uzmanlığı olanlar bilir."
+  },
+  {
+    "id": 74,
+    "soz": "Aman diyene kılıç kalkmaz",
+    "anlami": "Mertliğinize güvenip size teslim olan düşmanın canına kıyılmamalıdır ."
+  },
+  {
+    "id": 75,
+    "soz": "Ana gibi yâr olmaz, Bağdat gibi diyar olmaz",
+    "anlami": "İnsanlar içinde bize ana kadar candan bağlı dost yoktur.76-Ananın bastığı yavru incinmez : Annenin acı sözü çocuğuna ağır gelmez."
+  },
+  {
+    "id": 77,
+    "soz": "Anlayana sivrisinek saz, anlamayana davul zurna az",
+    "anlami": "Anlayışlı kimseleri en küçük bir söz bile etkiler oysa anlayışsız kimselere ne söylense yararsızdır ."
+  },
+  {
+    "id": 78,
+    "soz": "Araba devrilince yol gösteren çok olur",
+    "anlami": "İş işten geçtikten sonra verilen öğüdün değeri yoktur."
+  },
+  {
+    "id": 79,
+    "soz": "Arayan Mevla’sını da bulur, belasını da",
+    "anlami": "İyiyi amaçlayanlar iyiye, kötüyü amaçlayanlar ise kötüye ulaşırlar . - ATASÖZLERİ - 1280-Arı bal alacak çiçeği bilir : İşini bilen kimse nereye başvuracağını bilir."
+  },
+  {
+    "id": 81,
+    "soz": "Arı söğüdü, akıllı öğüdü sever",
+    "anlami": "Herkes işine yarayan şeyi benimser."
+  },
+  {
+    "id": 82,
+    "soz": "Arlı arından, huylu huyundan vazgeçmez",
+    "anlami": "Herkes kendi karakterine göre davranışta bulunur."
+  },
+  {
+    "id": 83,
+    "soz": "Armudu soy ye, elmayı say ye",
+    "anlami": "Armut kabuğu soyularak elma da aşırı gidilmeden sayıyla yenilmelidir."
+  },
+  {
+    "id": 84,
+    "soz": "Armut dalının dibine düşer",
+    "anlami": "Bir kimse önce yakınlarına yararlı olur."
+  },
+  {
+    "id": 85,
+    "soz": "Arpa eken buğday biçmez",
+    "anlami": "Kötü davranışın karşılığı iyi olmaz .86-Asıl azmaz, bal kokmaz : Bir kimse veya nesne, ne denli biçim değiştirirse değiştirsin aslını yitirmez, soyluluğunu korur."
+  },
+  {
+    "id": 87,
+    "soz": "Aslan yatağından belli olur",
+    "anlami": "Bir kimsenin oturduğu yerin durumu, onun kişiliğini belli eder."
+  },
+  {
+    "id": 88,
+    "soz": "Astar bol olmayınca yüze gülmez",
+    "anlami": "Bir iş yapmak için gerekli olan şeyler, ölçü biraz geniş tutularak hazırlanmalıdır."
+  },
+  {
+    "id": 89,
+    "soz": "Aş taşınca kepçeye paha olmaz",
+    "anlami": "Sıkışık zamanlarda önemsiz şeylerin değeri çoktur . - ATASÖZLERİ - 1390-At, adımına göre değil adamına göre yürür : Atın yürüyüşü binicisinin yönetimine bağlı olduğu gibi bir işin gidişi de iş başındakinin bilgisine ve çabasına bağlıdır."
+  },
+  {
+    "id": 91,
+    "soz": "At binenin, kılıç kuşananın",
+    "anlami": "Her şey, onu gereği gibi kullanmasını bilene yakışır."
+  },
+  {
+    "id": 92,
+    "soz": "At bulunur meydan bulunmaz, meydan bulunur at bulunmaz",
+    "anlami": "Bir işi başarabilmek için gerekli olan koşullar her zaman eksiksiz olarak ele geçmez."
+  },
+  {
+    "id": 93,
+    "soz": "Atasını tanımayan Allah'ını tanımaz",
+    "anlami": "Babaya itaat etmeyen kimse, ana ve babaya itaat etmeyi buyuran Tanrı'yı da tanımıyor demektir.94-Ateş düştüğü yeri yakar : Bir acıyı onu çekenden başkası tam anlayamaz veya aynı ölçüde üzülemez."
+  },
+  {
+    "id": 95,
+    "soz": "Ava giden avlanır",
+    "anlami": "Çıkarını başkalarına zarar vermekte arayan kimse, o zarara kendisi uğrar ."
+  },
+  {
+    "id": 96,
+    "soz": "Avcı ne kadar hile al bilse ayı o kadar yol bilir",
+    "anlami": "Bir kişi başkasını alt etmek için çeşit çeşit ustalık kullanır ama karşısındaki de yenilmemek için türlü önlemler alır."
+  },
+  {
+    "id": 97,
+    "soz": "Ayağını yorganına göre uzat",
+    "anlami": "Giderini mutlaka gelirine uydurmalısın . - ATASÖZLERİ - 1498-Ayağının bastığı yerde ot bitmez : Uğradığı yere bereketsizlik, uğursuzluk getirir."
+  },
+  {
+    "id": 99,
+    "soz": "Az tamah çok ziyan getirir",
+    "anlami": "Hırslı ve pinti insan her zaman zararlı çıkar."
+  },
+  {
+    "id": 100,
+    "soz": "Az veren candan, çok veren maldan",
+    "anlami": "Varlıklı olmayan kimsenin yardım veya armağan olarak az şey vermesi büyük fedakârlıktır , varlıklı kimsenin vereceği armağan ve yardımlar fedakârlık sayılmaz."
+  },
+  {
+    "id": 101,
+    "soz": "Aza kanaat etmeyen çoğu hiç bulamaz",
+    "anlami": "Büyük şeyleri elde edebilmek için önce küçük şeylerle yetinmek gerekir .102-Baba malı tez tükenir, evlat gerek kazana : Kendini bilen, yaşama sorumluluğu duyan akıllı evladın gerçek malı, kendisinin kazandığı maldır."
+  },
+  {
+    "id": 103,
+    "soz": "Baca eğri de olsa dumanı doğru çıkar",
+    "anlami": "Yaradılıştan iyi ve doğru olan kimse, ne denli elverişsiz ortam içinde bulunursa bulunsun niteliğini yitirmez."
+  },
+  {
+    "id": 104,
+    "soz": "Bacak kadar boyu var, türlü türlü huyu var",
+    "anlami": "Yaşı küçük ancak herkesten farklı alışkanlıklar, huylar edinmiş . - ATASÖZLERİ - 15105-Bağa bak, üzüm olsun, yemeye yüzün olsun : Kişi, karşılık beklediği işten istediğini alabilmek için gereken harcamaları yapmalıdır."
+  },
+  {
+    "id": 106,
+    "soz": "Bağı ağlayanın yüzü güler",
+    "anlami": "Bir işe gereken özen gösterildiğinde olumlu sonuçlar alınır."
+  },
+  {
+    "id": 107,
+    "soz": "Baht olmayınca başta, ne kuruda biter ne yaşta",
+    "anlami": "Kişi talihsiz olursa giriştiği hiçbir işten olumlu sonuç alamaz."
+  },
+  {
+    "id": 108,
+    "soz": "Bakarsan bağ olur, bakmazsan dağ olur",
+    "anlami": "Bakılıp onarılan şeylerden yararlanılır, bakımsız bırakılanlardan bir yarar elde edilemez.109-Bal bal demekle ağız tatlanmaz : Sözde kalan dilek ve tasarıların iş bitirmede hiçbir etkisi olmaz."
+  },
+  {
+    "id": 110,
+    "soz": "Bal tutan parmağını yalar",
+    "anlami": "İmkânları geniş bir işin başında bulunan kimse bunlardan az da olsa yararlanır."
+  },
+  {
+    "id": 111,
+    "soz": "Balı parmağı uzun yemez, kısmetlisi yer",
+    "anlami": "Güzel bir şey, onu isteyen ve elde edecek gibi görünenin değil kısmeti olanın eline geçer ."
+  },
+  {
+    "id": 112,
+    "soz": "Balık baştan avlanır",
+    "anlami": "Bir şeyi ele geçirebilmek için onu yönetenleri elde etmek gerekir . - ATASÖZLERİ - 16113-Balık baştan kokar : Bir işte aksaklığın başta olanlardan kaynaklandığını anlatan bir söz."
+  },
+  {
+    "id": 114,
+    "soz": "Bal tutan parmağını yalar",
+    "anlami": "Başkalarına güzel şeyler dağıtmakla görevli olan kimse , dağıttığından az çok kendisi de yararlanır."
+  },
+  {
+    "id": 115,
+    "soz": "Bal olan yerde sinek de olur",
+    "anlami": "Güzel şeylerin çevresinde, ondan yararlanmak isteyen asalaklar dolaşır."
+  },
+  {
+    "id": 116,
+    "soz": "Balta değmedik ağaç olmaz",
+    "anlami": "Zarar görmeyen, başına felaket gelmeyen kimse yoktur."
+  },
+  {
+    "id": 117,
+    "soz": "Baskıdaki altından askıdaki salkım yeğdir",
+    "anlami": "Kullanılan , işe yarayan değersiz şey, saklanan ve kullanılmayan çok değerli şeyden daha iyidir.118-Başa gelmeyince bilinmez : Başına bir felaket gelmeyen, başkasına gelen felaketin ne denli acı olduğunu gereği gibi anlayamaz."
+  },
+  {
+    "id": 119,
+    "soz": "Bedava sirke baldan tatlıdır",
+    "anlami": "Masrafsız ve emeksiz elde edilen şeyler insana hoş gelir."
+  },
+  {
+    "id": 120,
+    "soz": "Benim oğlum bina okur, döner döner yine okur",
+    "anlami": "Çok çalışmasına karşın belli bir düzeyden öteye gidemiyor."
+  },
+  {
+    "id": 121,
+    "soz": "Beş parmağın hangisini kessen acımaz? İnsan evlatlarını birbirinden ayırt etmez, hangisine zarar gelse aynı üzüntüyü duyar . - ATASÖZLERİ - 17122-Bezi herkesin arşınına göre vermezler",
+    "anlami": "Genel kurallar kişilerin isteklerine göre bozulmaz."
+  },
+  {
+    "id": 123,
+    "soz": "Bıçak kınını kesmez",
+    "anlami": "Kötüler yararlandıkları kimselere kötülük etmekten çekinirler."
+  },
+  {
+    "id": 124,
+    "soz": "Bilmemek ayıp değil, öğrenmemek ayıp",
+    "anlami": "İnsanın her şeyi bilmemesi kusur değildir ama bilmediği bir işi sorup öğrenmeden yapmaya kalkışması kusurdur."
+  },
+  {
+    "id": 125,
+    "soz": "Bin bilsen de bir bilene danış",
+    "anlami": "Bir insan bir şeyi ne kadar iyi bilirse bilsin, gene de onu kendisinden daha iyi bilen bulunabilir.126-Bin nasihatten bir musibet yeğdir : Yaşanan olaylar, öğütlerden çok daha etkilidir."
+  },
+  {
+    "id": 127,
+    "soz": "Bin tasa bir borç ödemez",
+    "anlami": "Borçlu ne denli üzülürse üzülsün borç sıkıntısından kurtulamaz."
+  },
+  {
+    "id": 128,
+    "soz": "Bir adama kırk gün ne dersen o olur",
+    "anlami": "Sürekli telkinlerle bir kişinin bilinç altına birtakım inançlar, duygular yerleştirilebilir."
+  },
+  {
+    "id": 129,
+    "soz": "Bir çöplükte iki horoz ötmez",
+    "anlami": "Bir yerde iki kişi baş olmaz."
+  },
+  {
+    "id": 130,
+    "soz": "Bir baş soğan bir kazanı kokutur",
+    "anlami": "Kötü bir kişi,kötü bir davranış ya da kötü bir söz büyük bir topluluğun havasını bozar. - ATASÖZLERİ - 18131-Bir elin nesi var, iki elin sesi var : Başarıya ulaşmak için birlik olmak gerek."
+  },
+  {
+    "id": 132,
+    "soz": "Bir fincan kahvenin kırk yıl hatırı vardır",
+    "anlami": "İyilik küçük de olsa unutulmaz."
+  },
+  {
+    "id": 133,
+    "soz": "Bir kızı bin kişi ister, bir kişi alır",
+    "anlami": "Bir şeyi herkes ister ancak onu bir kişi elde edebilir."
+  },
+  {
+    "id": 134,
+    "soz": "Bir koltuğa iki karpuz sığmaz",
+    "anlami": "Aynı zamanda birden çok işle ilgilenmek başarı için sakıncalıdır."
+  },
+  {
+    "id": 135,
+    "soz": "Bir mıh(çivi) bir nal kurtarır,bir nal bir at kurtarır",
+    "anlami": "Küçük gibi görünen işler,büyük sonuçlar doğurabilir.Örneğin küçük bir vidası eksik olan koca bir fabrika çalışamaz .136-Biri bilmeyen bini hiç bilmez : Küçük de olsa bir iyiliğin değerini bilmeyen, daha büyük iyiliklere layık değildir."
+  },
+  {
+    "id": 137,
+    "soz": "Bir söz yola getirir,bir söz yoldan çıkarır",
+    "anlami": "Doğru yola götüren inandırıcı sözler de yanlış yola sürükleyen etkili sözler de vardır."
+  },
+  {
+    "id": 138,
+    "soz": "Biz kırk kişiyiz, birbirimizi biliriz",
+    "anlami": "Birbirimizi çok yakından tanırız, onun öyle bir üstün durumu olmadığını biliriz."
+  },
+  {
+    "id": 139,
+    "soz": "Boğaz dokuz boğumdur",
+    "anlami": "Bir söz iyice düşünmeden söylenmemelidir . - ATASÖZLERİ - 19140-Borcun iyisi vermek, derdin iyisi ölmek : Borçlu ve dertli bir biçimde yaşanılmaz; borçtan kurtulmanın yolu onu vermek, onulmaz dertten kurtulmanın çıkar yolu ise ölmektir."
+  },
+  {
+    "id": 141,
+    "soz": "Borç ödemekle, yol yürümekle tükenir",
+    "anlami": "Birden ödenemeyen bir borç azar azar verilerek ödenebilir."
+  },
+  {
+    "id": 142,
+    "soz": "Borç yiğidin kamçısıdır",
+    "anlami": "Borç, kişiyi daha çok çalışmaya zorlar."
+  },
+  {
+    "id": 143,
+    "soz": "Borçlu ölmez, benzi sararır",
+    "anlami": "Borç kişiyi öldürmez ancak hasta edecek kadar üzer .144-Bostana dadanan eşeğin kuyruğu, kulağı olmaz : Çalıp çırpmayı huy edinen kişi ,yakayı ele vererek ceza alır ve insanlıktan çıkar."
+  },
+  {
+    "id": 145,
+    "soz": "Boş gezmekten bedava çalışmak yeğdir",
+    "anlami": "Çalışmak insanı tembellikten kurtarır."
+  },
+  {
+    "id": 146,
+    "soz": "Boşa koysan dolmaz, doluya koysan almaz",
+    "anlami": "İçinden çıkılamayan güç bir durum karşısında kalındığında söylenen bir söz."
+  },
+  {
+    "id": 147,
+    "soz": "Bu ne perhiz bu ne lahana turşusu!",
+    "anlami": "Sözleri ve davranışları birbirini tutmuyor, çelişiyor . - ATASÖZLERİ - 20148-Buğdayım var deme ambara girmeyince, oğlum var deme yoksulluğa ermeyince : Bir şeyin senin olduğundan kuşkun kalmaması için gereken bütün koşullar gerçekleşmelidir \" anlamında kullanılan bir söz."
+  },
+  {
+    "id": 149,
+    "soz": "Burnunu sıksan canı çıkacak",
+    "anlami": "Çok zayıf ve güçsüz kimseler için kullanılan bir söz."
+  },
+  {
+    "id": 150,
+    "soz": "Bülbülü altın kafese koymuşlar, ah vatanım demiş",
+    "anlami": "Kişi, başka yerlerde ne kadar rahat ve mutlu olursa olsun yine de kendi yurdunu özler."
+  },
+  {
+    "id": 151,
+    "soz": "Büyük başın derdi büyük olur",
+    "anlami": "Büyük işlerin başında bulunanların karşılaşacağı güçlükler de çoktur .152-Büyük lokma ye büyük söz söyleme : Başaramayacağın , sonuçlandıramayacağın bir konuda kesin sözler söyleme."
+  },
+  {
+    "id": 153,
+    "soz": "Can boğazdan gelir",
+    "anlami": "İnsan yiyeceğine önem vererek güçlenebilir veya yemeden yaşamak mümkün değildir."
+  },
+  {
+    "id": 154,
+    "soz": "Can canın yoldaşıdır",
+    "anlami": "İnsan tek başına yaşayamaz, konuşup görüşmek için arkadaş arar."
+  },
+  {
+    "id": 155,
+    "soz": "Can çıkmayınca huy çıkmaz",
+    "anlami": "İnsanı alışkanlıklarından, huylarından vazgeçirmek mümkün değildir . - ATASÖZLERİ - 21156-Cana gelecek mala gelsin : Canı korumak için mal feda edilir."
+  },
+  {
+    "id": 157,
+    "soz": "Canımı sokakta bulmadım",
+    "anlami": "Tehlikeye veya herhangi bir sıkıntıya katlanmaya niyetim yok."
+  },
+  {
+    "id": 158,
+    "soz": "Cefayı çekmeyen sefanın kadrini bilmez",
+    "anlami": "Sıkıntı çekmemiş olanlar, eriştikleri rahatlığın ve mutluluğun değerini bilemezler."
+  },
+  {
+    "id": 159,
+    "soz": "Cins kedi ölüsünü göstermez",
+    "anlami": "Onurlu kişi kötü durumlarını çok gerekmedikçe kimseye göstermez ve söylemez."
+  },
+  {
+    "id": 160,
+    "soz": "Cömert derler maldan ederler, yiğit derler candan ederler",
+    "anlami": "Başkalarının pohpohlamalarına kananlar mallarından ve canlarından olurlar .161-Çağrılan yere erinme, çağrılmayan yere görünme : Kişi, çağrıldığı yere gitmeli, çağrılmadığı yere gitmemelidir."
+  },
+  {
+    "id": 162,
+    "soz": "Çağrılmayan yere çörekçiyle börekçi gider",
+    "anlami": "Çağrılmadığın yere sakın gitme!"
+  },
+  {
+    "id": 163,
+    "soz": "Çalma elin kapısını, çalarlar kapını",
+    "anlami": "Kimseye kötülük yapma yoksa onlar da sana aynı kötülüğü yaparlar."
+  },
+  {
+    "id": 164,
+    "soz": "Çam ağacından ağıl olmaz, el çocuğundan oğul olmaz",
+    "anlami": "Her şeyin bir değeri vardır; yapacağı iş, kullanılacağı yer ayrıdır . - ATASÖZLERİ - 22165-Çanağa ne doğrarsan kaşığında o çıkar : Kişi, kendisi için önceden yaptığı hazırlıkların verimini ileride alır."
+  },
+  {
+    "id": 166,
+    "soz": "Çay geçerken at değiştirilmez",
+    "anlami": "Bir yöntemden başka bir yönteme geçiş tehlikeli bir durum veya zamanda yapılmamalıdır ."
+  },
+  {
+    "id": 167,
+    "soz": "Çıkmadık canda umut var",
+    "anlami": "Elden gitti sandığımız bir şeyle ilgimiz büsbütün kesilmemişse gereken çabayı harcayarak onun elimizde kalmasını sağlayabileceğimizi umabiliriz."
+  },
+  {
+    "id": 168,
+    "soz": "Çıngıraklı deve kaybolmaz",
+    "anlami": "Kalıcı eser bırakan kimseler hiçbir zaman unutulmaz.169-Çivi çıkar ama yeri kalır : Gönül yarası kapansa da unutulmaz."
+  },
+  {
+    "id": 170,
+    "soz": "Çivi çiviyi söker",
+    "anlami": "Güçlü bir şey, kendisi güçlü olan başka bir şeyle veya durumla etkisiz bırakılır."
+  },
+  {
+    "id": 171,
+    "soz": "Çobanın gönlü olursa tekeden süt çıkarır",
+    "anlami": "Kişi istediğinde olmayacak gibi görünen işlere çözüm yolu bulur"
+  },
+  {
+    "id": 172,
+    "soz": "Çobansız koyunu kurt kapar",
+    "anlami": "Yöneticisi , koruyucusu olmayan kişiyi ve topluluğu düşman ezer . - ATASÖZLERİ - 23173-Çocuğu iş buyuran, ardınca kendi gider : Çocuk kendisine ısmarlanan işi yapamayacağından işi buyuran kimsenin onun arkasından gitmesi gerekir."
+  },
+  {
+    "id": 174,
+    "soz": "Çocuğun bulunduğu yerde dedikodu olmaz",
+    "anlami": "Küçük çocuğun bulunduğu yerde herkes çocukla uğraşmaktan dedikodu yapmaya fırsat bulamaz."
+  },
+  {
+    "id": 175,
+    "soz": "Çocuk düşe kalka büyür",
+    "anlami": "Çocuk yürümeye başladığı sırada sık sık düşer, anne baba bu duruma üzülmemelidir."
+  },
+  {
+    "id": 176,
+    "soz": "Çoğu gitti, azı kaldı",
+    "anlami": "Yapılmakta olan işin en önemli, en güç bölümü bitti, az ve önemsiz bölümü kaldı .177-Çoğu zarar, azı karar : Hiçbir zaman aşırıya kaçılmamalıdır."
+  },
+  {
+    "id": 178,
+    "soz": "Çok bilen çok yanılır",
+    "anlami": "Çok bildiği için kendine güvenen kişi, bilmediği şeylere de karışır ve bunlarda yanılır."
+  },
+  {
+    "id": 179,
+    "soz": "Çok gezen tavuk ayağında pislik getirir",
+    "anlami": "Gezip dolaştığı yerlerde kötü şeyler de bulunan kimse, kötü alışkanlıklar ve zararlı bilgiler elde ederek yerine döner."
+  },
+  {
+    "id": 180,
+    "soz": "Çok havlayan köpek ısırmaz",
+    "anlami": "Karşısındakini bağırıp çağırmakla korkutmaya çalışan kimse eylemli bir saldırıda bulunmaz. - ATASÖZLERİ - 24181-Çok naz âşık usandırır : Başka şeylerde olduğu gibi nazlanmada da aşırı gidilmemelidir."
+  },
+  {
+    "id": 182,
+    "soz": "Çok söyleme arsız edersin, aç bırakma hırsız edersin",
+    "anlami": "Bir kişiye bir uyarıyı sürekli olarak yapmak ve bir kişiyi istediğinden yoksun bırakmak daima kötü sonuç verir."
+  },
+  {
+    "id": 183,
+    "soz": "Çok yaşayan bilmez, çok gezen bilir",
+    "anlami": "Çok gezen insan çok yaşayandan daha fazla bilgiye sahip olabilir."
+  },
+  {
+    "id": 184,
+    "soz": "Çul içinde aslan yatar",
+    "anlami": "Bir kimsenin değeri, kılık kıyafeti ile değil kişiliğindeki cevherle ölçülür .185-Dağ başından duman eksik olmaz : Büyük adamların, büyük iş yapanların her zaman üzüntüleri, sıkıntıları vardır."
+  },
+  {
+    "id": 186,
+    "soz": "Dağ dağ üstüne olur, ev ev üstüne olmaz",
+    "anlami": "Aynı evde oturan iki aile arasında er geç birtakım anlaşmazlıklar çıkar."
+  },
+  {
+    "id": 187,
+    "soz": "Dağ dağa kavuşmaz, insan insana kavuşur",
+    "anlami": "Ne kadar uzak düşmüş olurlarsa olsunlar, insanlar günün birinde birbirleriyle karşılaşabilirler ."
+  },
+  {
+    "id": 188,
+    "soz": "Dağ ne kadar yüce olsa yol üstünden aşar",
+    "anlami": "Yenilmesi imkânsız gibi görünen zorlukların da üstesinden gelinir . - ATASÖZLERİ - 25189-Dam üstünde saksağan, vur beline kazmayı : Yersiz ve saçma sözler karşısında söylenen bir söz."
+  },
+  {
+    "id": 190,
+    "soz": "Damdan düşen, damdan düşenin hâlini bilir",
+    "anlami": "İyi bir durumdayken kötü duruma düşen kimse, başına aynı durum gelen kimsenin derdini iyi anlar."
+  },
+  {
+    "id": 191,
+    "soz": "Damlaya damlaya göl olur",
+    "anlami": "Azar azar olagelen şeyler birikerek önemli bir niceliğe ulaşacağı için küçümsenmemelidir ."
+  },
+  {
+    "id": 192,
+    "soz": "Danışan dağı aşmış, danışmayan düz yolda şaşmış",
+    "anlami": "Bilmediği şeyi bir bilene soran, en zor işlerin bile üstesinden gelir; sormayan ise güçlükler içinde yuvarlanır gider .193-Davetsiz gelen döşeksiz oturur : Çağrılmadan bir yere giden kimse iyi bir ağırlanma beklememelidir."
+  },
+  {
+    "id": 194,
+    "soz": "Davul dengi dengine diye çalar",
+    "anlami": "Evlenecek kimselerin birbirlerine denk olması gerekir."
+  },
+  {
+    "id": 195,
+    "soz": "Davulun sesi uzaktan hoş gelir",
+    "anlami": "İşin içinde olmayanlar o işi kolay veya kârlı sanırlar."
+  },
+  {
+    "id": 196,
+    "soz": "Değirmenin suyu nereden geliyor? Bu işin masrafını karşılayacak para nasıl kazanılıyor. 197-Delik büyük, yama küçük",
+    "anlami": "Eldeki imkânlar gerekenden çok az. - ATASÖZLERİ - 26198-Demir nemden, insan gamdan çürür : Nem demiri nasıl paslandırıp çürütürse gam da insanı öylece yıpratır."
+  },
+  {
+    "id": 199,
+    "soz": "Demir tavında dövülür Her iş zamanında ve uygun durumda yapılır. 200-Deniz kenarında dalga eksik olmaz",
+    "anlami": "İçinde çeşitli olayların geçmesi doğal olan bir ortamda zaman zaman sert çatışmaların, fırtınaların çıkması da olasıdır."
+  },
+  {
+    "id": 201,
+    "soz": "Denizdeki balığın pazarlığı olmaz",
+    "anlami": "Henüz elde olmayan bir nesnenin alımı, satımı üzerinde konuşulmaz.202-Denize düşen yılana sarılır : Güç bir duruma düşenlerin bundan kurtulmak için her türlü çareye başvurmaları olağandır ."
+  },
+  {
+    "id": 203,
+    "soz": "Derdini söylemeyen derman bulamaz",
+    "anlami": "İnsan sıkıntısını başkasına açıklayarak giderebilir."
+  },
+  {
+    "id": 204,
+    "soz": "Derdi veren devasını da verir",
+    "anlami": "Her sıkıntının, üzüntünün bir çaresi vardır ."
+  },
+  {
+    "id": 205,
+    "soz": "Dereyi geçerken at değiştirilmez",
+    "anlami": "Bir yöntemden başka bir yönteme geçiş tehlikeli bir durum veya zamanda yapılmamalıdır. - ATASÖZLERİ - 27206-Dert ağlatır, aşk söyletir : Derdi olan acı çeker, ağlar; âşık olan kimse de içindeki duyguları dışa vurup ferahlamak için durmadan söylenir."
+  },
+  {
+    "id": 207,
+    "soz": "Dervişin fikri ne ise zikri de odur",
+    "anlami": "İnsan , önem verip düşündüğü şeyi konuşmaktan kendini alamaz."
+  },
+  {
+    "id": 208,
+    "soz": "Destursuz bağa gireni sopa ile kovarlar",
+    "anlami": "Bir yere izinsiz girmek veya bir işe izinsiz el atmak kötü karşılanır ."
+  },
+  {
+    "id": 209,
+    "soz": "Deveyi yardan uçuran bir tutam ottur",
+    "anlami": "Gözü doymayan hırslı insanlar küçük bir çıkar için bütün varlığını tehlikeye atar .210-Dışı eli yakar, içi beni yakar : Görünüşe aldanmamalı."
+  },
+  {
+    "id": 211,
+    "soz": "Dikensiz gül olmaz",
+    "anlami": "İyi veya güzel olan her şeyin az çok sıkıntı veren bir yanı da bulunur."
+  },
+  {
+    "id": 212,
+    "soz": "Dilden gelen elden gelse her fukara padişah olur",
+    "anlami": "Kişi her söylediğini yapamaz, her dilediğini elde edemez."
+  },
+  {
+    "id": 213,
+    "soz": "Dilsizin dilinden anası anlar",
+    "anlami": "Başkalarının kolay kolay anlayamadıkları şeyi, her gün onunla uğraşan kimse çok kolay anlar . - ATASÖZLERİ - 28214-Doğru söz acıdır : Eksikleri , yanlışları, yolsuzlukları bütün çıplaklığıyla ortaya koyan ve eleştiren söz, bu işi yapanlara acı gelir."
+  },
+  {
+    "id": 215,
+    "soz": "Doğrunun yardımcısı Allah'tır",
+    "anlami": "İşlerinde doğruluktan ayrılmayan kişiye Tanrı her zaman yardım eder."
+  },
+  {
+    "id": 216,
+    "soz": "Doluya koydum almadı, boşa koydum dolmadı",
+    "anlami": "İçinden çıkılmayan güç bir durum karşısında söylenen bir söz."
+  },
+  {
+    "id": 217,
+    "soz": "Dost acı söyler",
+    "anlami": "Yakınlarımız , eksikliklerimizi çekinmeden söylerler."
+  },
+  {
+    "id": 218,
+    "soz": "Dost ağlatır, düşman güldürür",
+    "anlami": "Dost olan kimsenin söylediği söz, acı da olsa insanın iyiliği içindir .219-Dost başa, düşman ayağa bakar : İyi bir görüntü verebilmek için her zaman temiz giyinip kuşanmak gereklidir."
+  },
+  {
+    "id": 220,
+    "soz": "Dost dostun ayıbını yüzüne söyler",
+    "anlami": "Gerçek dost uyarmak, kusurun düzeltilmesini sağlamak amacıyla ayıbı yüze karşı söyler ."
+  },
+  {
+    "id": 221,
+    "soz": "Dostun attığı taş baş yarmaz",
+    "anlami": "Dostun acı sözü veya sert davranışı insana ağır gelmez."
+  },
+  {
+    "id": 222,
+    "soz": "Dostluk okkayla, alışveriş dirhemle",
+    "anlami": "Dostluğun değeri ölçülemez, alışverişse ölçülü yapılmalı . - ATASÖZLERİ - 29223-Dün öleni dün gömerler : Bir üzüntü sürdürülmemeli, unutulmaya çalışılmalıdır."
+  },
+  {
+    "id": 224,
+    "soz": "Ecel geldi cihana, baş ağrısı bahane",
+    "anlami": "Herkesin ölümü için bir sebep vardır."
+  },
+  {
+    "id": 225,
+    "soz": "Eğilen baş kesilmez",
+    "anlami": "Kusurunu anlayıp özür dileyen kişi bağışlanmalıdır."
+  },
+  {
+    "id": 226,
+    "soz": "Eğreti ata binen tez iner",
+    "anlami": "Ödünç alınmış araçlarla girişilen işler çok kez yürütülemez."
+  },
+  {
+    "id": 227,
+    "soz": "Eğri oturup doğru konuşalım",
+    "anlami": "Birisine karşı tutumumuz ne olursa olsun doğruyu söylemeliyiz."
+  },
+  {
+    "id": 228,
+    "soz": "Ekmek aslanın ağzında",
+    "anlami": "Geçim sağlayacak bir iş bulmak ve para kazanmak kolay değildir .229-Ekmek istemez su istemez : Hiçbir masrafı yoktur."
+  },
+  {
+    "id": 230,
+    "soz": "El için ağlayan gözden olur",
+    "anlami": "Başkası için yapılacak fedakârlığın bir sınırı vardır."
+  },
+  {
+    "id": 231,
+    "soz": "El kazanıyla aş kaynamaz",
+    "anlami": "Önemli bir iş, başkalarının yardımıyla başarılamaz, iş her an yarıda kalabilir."
+  },
+  {
+    "id": 232,
+    "soz": "Elçiye zeval olmaz",
+    "anlami": "Bir kimseden başka bir kimseye herhangi bir haber ulaştıran, bu aracılığından dolayı sorumlu tutulmaz."
+  },
+  {
+    "id": 233,
+    "soz": "Elin ağzı torba değil ki büzesin",
+    "anlami": "Başkalarının söyleyeceklerine engel olamazsınız . - ATASÖZLERİ - 30234-Elmanın dibi göl, armudun dibi yol : Dıştan birbirine benzeyen her şeye aynı işlem uygulanamaz, her biri özelliğine göre ayrı bir davranış ister."
+  },
+  {
+    "id": 235,
+    "soz": "Emek olmadan yemek olmaz",
+    "anlami": "Yaşayabilmek , harcayabilmek için çalışıp kazanmak gerekir."
+  },
+  {
+    "id": 236,
+    "soz": "Erkeğin kalbine giden yol midesinden geçer",
+    "anlami": "Kendini bir erkeğe beğendirmek isteyen kadın, ona güzel yemekler hazırlamalıdır."
+  },
+  {
+    "id": 237,
+    "soz": "Erken kalkan yol alır",
+    "anlami": "Yapacakları işlere erken başlayanlar kazançlı çıkarlar .238-Eski düşman dost olmaz, yenisinden vefa gelmez : Birçok nedenin birbirini izlemesiyle sürüp gelmiş olan eski düşmanlık, dostluğa dönüştürülemez ."
+  },
+  {
+    "id": 239,
+    "soz": "Eskisi olmayanın yenisi olmaz",
+    "anlami": "Yeni bir şey edinildiğinde eskisi hemen elden çıkarılmamalıdır."
+  },
+  {
+    "id": 240,
+    "soz": "Eşeğe altın semer vursalar yine eşektir",
+    "anlami": "İnsanlık değerinden yoksun kişi, kılık kıyafetle, makam ve mevkiiyle değer kazanmaz."
+  },
+  {
+    "id": 241,
+    "soz": "Eşek , kulağı kesilmekle küheylan olmaz",
+    "anlami": "Biçim değiştirmekle öz değişmiş olmaz . - ATASÖZLERİ - 31242-Etle tırnak arasına girilmez : Aile anlaşmazlıklarında bir yanı tutmak doğru değildir."
+  },
+  {
+    "id": 243,
+    "soz": "Etme bulma dünyası",
+    "anlami": "Kötülük eden kötülük bulur."
+  },
+  {
+    "id": 244,
+    "soz": "Ev alma, komşu al",
+    "anlami": "Komşuluk ilişkileri, iyi bir komşuya sahip olma çok çok önemlidir."
+  },
+  {
+    "id": 245,
+    "soz": "Evdeki hesap çarşıya uymaz",
+    "anlami": "Önceden tasarlanan bir iş umulduğu gibi sonuçlanmaz, düşünüldüğü gibi olmaz."
+  },
+  {
+    "id": 246,
+    "soz": "Evden bir ölü çıkacak demişler, herkes hizmetçinin yüzüne bakmış",
+    "anlami": "Topluluk içinde birinin tehlikeli bir iş yapması gerektiğinde herkes bunu söz geçirebileceği birinden bekler .247-Evlinin bir evi var, kiracının bin evi var : Evi olan yalnızca kendi evinde oturur, evi olmayan ise beğendiği evde oturur."
+  },
+  {
+    "id": 248,
+    "soz": "Fakirlik ayıp değil, tembellik ayıp",
+    "anlami": "Yoksulluk utanılacak bir şey değildir, çalışmamak en büyük ayıptır."
+  },
+  {
+    "id": 249,
+    "soz": "Fukaranın tavuğu tek tek yumurtlar",
+    "anlami": "Talih, fakire hiç gülmez; aynı sermaye zengine daha çok, fakire daha az gelir getirir . - ATASÖZLERİ - 32250-Garibe bir selam bin altın değer : Yabancı yerde tek başına kalan kimseye karşı gösterilecek küçük bir ilgi, en büyük iyilik yerine geçer."
+  },
+  {
+    "id": 251,
+    "soz": "Garip kuşun yuvasını Allah yapar",
+    "anlami": "Garip ve kimsesiz kişiye Tanrı yardım eder."
+  },
+  {
+    "id": 252,
+    "soz": "Geç olsun da güç olmasın",
+    "anlami": "Çeşitli engeller yüzünden gerçekleşemeyen işlerde avunmak için söylenen bir söz."
+  },
+  {
+    "id": 253,
+    "soz": "Gel demesi kolay ama git demesi güçtür",
+    "anlami": "Bir kimseyi işe almak, bir misafir çağırmak kolaydır ancak bir kimsenin işine son vermek , misafire git demek zordur .254-Gelen gideni aratır : Beğenmediğimiz bir kişinin yerine öyle birisi gelir ki eskisini aratır."
+  },
+  {
+    "id": 255,
+    "soz": "Gelene git denilmez",
+    "anlami": "Kendiliğinden gelen bir konuk geri çevrilmez."
+  },
+  {
+    "id": 256,
+    "soz": "Gelini ata bindirmişler ‘ya nasip’ demiş",
+    "anlami": "Kesin sonuç alınmadan hiçbir işe olup bitti gözüyle bakılmaz."
+  },
+  {
+    "id": 257,
+    "soz": "Gençliğin kıymeti ihtiyarlıkta bilinir",
+    "anlami": "İnsan gençliğinde yaptığı şeylerin çoğunu yaşlandığında yapamaz ve gençliğin ne denli değerli olduğunu o zaman anlar . - ATASÖZLERİ -"
+  },
+  {
+    "id": 33,
+    "soz": "ATASÖZLERİ - 258-Gidilmeyen yer senin değildir",
+    "anlami": "Gidemediğiniz yerinizin, kullanamadığınız malınızın size bir yararı olmaz."
+  },
+  {
+    "id": 259,
+    "soz": "Gidip de gelmemek var, gelip de görmemek var",
+    "anlami": "Uzak bir yere giden kişi dönmeyebilir, dönebilse de ayrılırken bıraktığı yakınlarını bulmayabilir ."
+  },
+  {
+    "id": 260,
+    "soz": "Gönül bir sırça saraydır, kırılırsa yapılmaz",
+    "anlami": "Kolay kolay onarılamayacağı için bir kimsenin özellikle de dostlarımızın gönlünü kırmamaya özen göstermeliyiz."
+  },
+  {
+    "id": 261,
+    "soz": "Güneş balçıkla sıvanmaz",
+    "anlami": "Herkesin bildiği bir gerçek, yalan yanlış sözlerle değiştirilemez, örtbas edilemez .262-Güneş girmeyen eve doktor girer : Güneşsiz evde hastalık eksik olmaz."
+  },
+  {
+    "id": 263,
+    "soz": "Hacı hacıyı Mekke’de, derviş dervişi tekkede bulur",
+    "anlami": "Hedefleri , amaçları aynı olanların yolları aynı noktada kesişir."
+  },
+  {
+    "id": 264,
+    "soz": "Haddini bilmeyene bildirirler",
+    "anlami": "Çevresindekileri hiçe sayarak yetkili olmadığı konularda yüksekten atanlara sert karşılıklarla gereken dersler verilir."
+  },
+  {
+    "id": 265,
+    "soz": "Hak deyince akan sular durur",
+    "anlami": "Bir anlaşmazlıkta adalet, tarafsızlık, hakkaniyet devreye girdiğinde kimsenin söyleyecek sözü kalmaz . 34266-Hak yerini bulur : Haksızlık er geç ortaya çıkar."
+  },
+  {
+    "id": 267,
+    "soz": "Hamama giren terler",
+    "anlami": "Bir işe girişen, o işin güçlüklerini veya masraflarını göze almalıdır."
+  },
+  {
+    "id": 268,
+    "soz": "Hangi rüzgâr attı? Bir yere uzun süre uğramamışken beklenmedik bir zamanda gelenlere sitem yollu söylenen bir söz. 269-Hastaya bakmaktan hasta olması yeğdir",
+    "anlami": "Ağır bir hastaya bakmak o denli güçtür ki, kimi zaman hasta olmak bundan daha kolay görünür ."
+  },
+  {
+    "id": 270,
+    "soz": "Hastaya döşek sorulmaz",
+    "anlami": "Bir kişiye, onsuz yapamayacağı belli olan bir şeyin gerekli olup olmadığı sorulmaz .271-Hatasız kul olmaz : İnsan yanılmamak için ne kadar dikkat ederse etsin yine yanılır."
+  },
+  {
+    "id": 272,
+    "soz": "Hekimden sorma, çekenden sor",
+    "anlami": "Bir sıkıntının acısını ancak onu çeken bilir."
+  },
+  {
+    "id": 273,
+    "soz": "Her ağacın meyvesi olmaz",
+    "anlami": "Dışarıdan verimli gibi görünen herkes verimli olmaz."
+  },
+  {
+    "id": 274,
+    "soz": "Her ağaçtan kaşık olmaz",
+    "anlami": "Özelliği olan bir iş için sıradan birisi kullanılamaz."
+  },
+  {
+    "id": 275,
+    "soz": "Her gün baklava börek yense bıkılır",
+    "anlami": "Hep aynı şeyle uğraşmak insana bıkkınlık verir . - ATASÖZLERİ - 35276-Her horoz kendi çöplüğünde öter : Herkes ancak kendi çevresinde bir değer taşır ve sözünü orada geçirebilir."
+  },
+  {
+    "id": 277,
+    "soz": "Her işte bir hayır vardır",
+    "anlami": "Kişi, kötümserliğe kapılmamak için olup biten her işi hayra yormalıdır."
+  },
+  {
+    "id": 278,
+    "soz": "Her kaşığın kısmeti bir olmaz",
+    "anlami": "Herkesin talihi, kazancı bir değildir."
+  },
+  {
+    "id": 279,
+    "soz": "Her kuşun eti yenmez",
+    "anlami": "Herkes zorbalığa boyun eğmez, buna karşı gelecekler de çıkar."
+  },
+  {
+    "id": 280,
+    "soz": "Her yiğidin bir yoğurt yiyişi vardır",
+    "anlami": "Herkesin kendine özgü bir çalışma yöntemi, bir iş yapma biçimi vardır .281-Herkes aklını pazara çıkarmış, yine kendi aklını almış : İnsanlar kendi akıllarını başkalarının aklından üstün görürler."
+  },
+  {
+    "id": 282,
+    "soz": "Herkes bildiğini okur",
+    "anlami": "Başkaları ne söylerse söylesin, herkes kendi düşünüşüne göre iş yapar."
+  },
+  {
+    "id": 283,
+    "soz": "Herkes gider Mersin’e, biz gideriz tersine",
+    "anlami": "İnsan kendi kusurunu göremez, bilemez."
+  },
+  {
+    "id": 284,
+    "soz": "Irak yerin haberini kervan getirir",
+    "anlami": "Erişemediğimiz şeyle aramızdaki ilişkiyi bir aracı sağlar . - ATASÖZLERİ - 36285-Işığını akşamdan önce yakan sabaha çırasına yağ bulamaz : Gerekmediği zaman bol bol harcama yapanlar, gerektiği zaman harcayacak para bulamaz."
+  },
+  {
+    "id": 286,
+    "soz": "Irmak kenarında çeşme yapılmaz",
+    "anlami": "Zaten var olan ve herkesin istifade edebildiği şeyin yanına, aynı işi görmek üzere daha yetersizini ve zayıfını eklemek akıllılık değildir. Böyle bir gayret boşuna yorulmaktır."
+  },
+  {
+    "id": 287,
+    "soz": "Islanmışın yağmurdan pervası yoktur",
+    "anlami": "Daha önce bir zarara uğramış kimse, kendisine aynı zararı verecek şeyden korkmaz .288-Ismarlama hac, hac olmaz : Kişi, kendisi yapması gereken bir işi başkasına ısmarlamamalıd ır."
+  },
+  {
+    "id": 289,
+    "soz": "İbadet de gizli, kabahat de",
+    "anlami": "Yapılan iyilikler göstermelik olmamalı, işlenen suçlar, ayıplar açığa vurulmamalıdır."
+  },
+  {
+    "id": 290,
+    "soz": "İki aslan bir posta sığmaz",
+    "anlami": "Bir ülkede iki baş egemen olamaz ."
+  },
+  {
+    "id": 291,
+    "soz": "İki at bir kazığa bağlanmaz",
+    "anlami": "Ayrı ayrı düşünceleri ve kişilikleri bulunan iki kişi bir arada yaşayamaz, bir işi birlikte yapamazlar ."
+  },
+  {
+    "id": 292,
+    "soz": "İki deliye bir uslu koymuşlar",
+    "anlami": "Birbirleriyle anlaşamayan, kavga eden iki kişinin arasını bulacak bir akıllının olması gerekir. - ATASÖZLERİ - 37293-İki kaptan bir gemiyi batırır : Bir işi iki kişi yürütemez."
+  },
+  {
+    "id": 294,
+    "soz": "İki el, bir baş için",
+    "anlami": "Ancak kendi geçimini sağlayabilenler, başkalarına yardım edecek bir durumda değildir ."
+  },
+  {
+    "id": 295,
+    "soz": "İki emini bir yemin aralar",
+    "anlami": "Birbirinin doğruluğuna güvenerek birlikte iş yapmakta olan iki kişiden biri, hile yapmadığına arkadaşını inandırmak için yemin ediyorsa artık güven bozulmuş demektir, ayrılmaları gerekir ."
+  },
+  {
+    "id": 296,
+    "soz": "İki kere iki dört eder",
+    "anlami": "Gerçekliğinden şüphe edilmeyecek kadar açık."
+  },
+  {
+    "id": 297,
+    "soz": "İki ölç bir biç",
+    "anlami": "Bir iş yapılırken ayrıntıları ve sonuçları iyice düşünülmelidir .298-İki testi tokuşunca biri elbet kırılır : Kavgaya tutuşan iki kişiden biri elbette yenilir ve zarara uğrar."
+  },
+  {
+    "id": 299,
+    "soz": "İnsan ayaktan, at tırnaktan kapar",
+    "anlami": "Birçok hastalık insana ayağını üşütmesi, ata da tırnağı yoluyla gelir."
+  },
+  {
+    "id": 300,
+    "soz": "İnsan beşer, kuldur şaşar",
+    "anlami": "Kişinin zaman zaman şaşırmasını, yanılmasını hoş görmek gerekir ."
+  },
+  {
+    "id": 301,
+    "soz": "İnsan çeşit çeşit, yer damar damar",
+    "anlami": "Toprağın her kesimi ayrı ayrı nitelikler taşıdığı gibi insanlar da birbirlerinden farklı özelliklere sahiptirler . - ATASÖZLERİ - 38302-İnsan doğduğu yerde değil, doyduğu yerde : İnsan doğduğu yeri değil geçimini sağladığı yeri yurt edinir."
+  },
+  {
+    "id": 303,
+    "soz": "İnsan gönlünün artığını söyler",
+    "anlami": "İnsanlar şaka yaparken içlerinden geçeni yansıtırlar."
+  },
+  {
+    "id": 304,
+    "soz": "İnsan kıymetini insan bilir",
+    "anlami": "Bir kimsenin ne kadar değerli olduğunu ancak o kimsenin değerini ölçebilecek nitelikteki insanlar anlar."
+  },
+  {
+    "id": 305,
+    "soz": "İnsan konuşa konuşa, hayvan koklaşa koklaşa",
+    "anlami": "İnsanlar konuşarak birbirlerini daha iyi anlarlar."
+  },
+  {
+    "id": 306,
+    "soz": "İnsan sözünden, hayvan yularından tutulur",
+    "anlami": "Yularından tutulan hayvan başka yöne sapamadığı gibi insan da söylediği sözün dışına çıkamaz .307-İnsan yedisinde ne ise yetmişinde de odur : Kişinin çocukluğundaki huyları, özellikleri yaşlılığında da değişmez."
+  },
+  {
+    "id": 308,
+    "soz": "İnsanın alacası içinde, hayvanın alacası dışınadır",
+    "anlami": "Hayvanın rengi dışındadır, bellidir ancak insanın ne düşündüğü, ne yapmak istediği kısacası içyüzü belli değildir."
+  },
+  {
+    "id": 309,
+    "soz": "İp inceldiği yerden kopar",
+    "anlami": "Bir durum, en zayıf yerinden patlak verir."
+  },
+  {
+    "id": 310,
+    "soz": "İp koptuğu yerden bağlanır",
+    "anlami": "İki kişi arasındaki kırgınlığın giderilebilmesi için kırgınlık nedeninin ortadan kaldırılması gerekir . - ATASÖZLERİ - 39311-İstediğini söyleyen, istemediğini işitir : Bir kimseye hakaret etmek, ağır sözler söylemek doğru değildir, o da ağır sözlerle karşılık verir."
+  },
+  {
+    "id": 312,
+    "soz": "İsteyenin bir yüzü, vermeyenin iki yüzü kara",
+    "anlami": "Birinden bir şey isteyen utanır ancak isteği yerine getirmeyen daha çok utanmalıdır."
+  },
+  {
+    "id": 313,
+    "soz": "İş insanın aynasıdır",
+    "anlami": "Bir kimsenin nasıl bir kişi olduğu yaptığı işlerden anlaşılır."
+  },
+  {
+    "id": 314,
+    "soz": "İş olacağına varır",
+    "anlami": "Bir soruna aldırmamayı, ne yapılırsa yapılsın yine aynı sonuca ulaşılacağını anlatan bir söz.315-İşin yoksa şahit ol, paran çoksa kefil ol : Tanıklık boş oturan kimselerin, kefillik ise parası çok olan kimselerin işidir."
+  },
+  {
+    "id": 316,
+    "soz": "İşine hor bakan boynuna torba takar",
+    "anlami": "İşini küçümseyen kişi para kazanamaz, para kazanamayanın sonu ise dilenciliktir ."
+  },
+  {
+    "id": 317,
+    "soz": "İşini kış tut da yaz çıkarsa bahtına",
+    "anlami": "Başladığın bir işte her zaman güçlüklerle karşılaşacağını varsay ki sonunda hayal kırıklığına uğramayasın, iyi sonuçlar aldığında sevinesin. - ATASÖZLERİ - 40318-İşleyen demir ışıldar pas tutmaz : Tembel tembel oturan kimse hantallaşır, iş yapma yeteneğini yitirir, çalışan kimse gittikçe açılır, daha yararlı işler yapar."
+  },
+  {
+    "id": 319,
+    "soz": "İştah dişin dibindedir",
+    "anlami": "Bir şey yemeyi istemeyen kimse, yiyecekten bir parça tattığında iştahının açıldığını görür ."
+  },
+  {
+    "id": 320,
+    "soz": "İyi evlat babayı vezir, kötü evlat rezil eder",
+    "anlami": "Babaya ün kazandıran da el içine çıkamayacak bir duruma düşüren de çocuklarının tutumlarıdır ."
+  },
+  {
+    "id": 321,
+    "soz": "İyi olacak hastanın hekim ayağına gelir",
+    "anlami": "Tanrı kötü bir durumun iyiliğe dönmesini dilemişse bunu yapacak kimse işin üstüne gelir.322-İyiliğe iyilik her kişinin kârı, kötülüğe iyilik er kişinin kârı : İyiliğe karşı iyiliği herkes yapabilir, önemli olan kötülüğe karşı iyilik yapabilmektir"
+  },
+  {
+    "id": 323,
+    "soz": "İyilik eden iyilik bulur",
+    "anlami": "İyilik eden kimseye zamanı geldiğinde başkaları da iyilik ederler."
+  },
+  {
+    "id": 324,
+    "soz": "İyilik et denize at, balık bilmezse Halik bilir",
+    "anlami": "Karşılık beklemeden iyilik yap"
+  },
+  {
+    "id": 325,
+    "soz": "İyilik iki baştan olur",
+    "anlami": "Birbiriyle ilişkileri bulunan iki kişinin iyi geçinebilmeleri için yalnız birinin iyi olması yetmez. - ATASÖZLERİ - 41326-Kabahat samur kürk olsa, kimse sırtına almaz : Hiç kimse suçlu olduğunu kabul etmek istemez ."
+  },
+  {
+    "id": 327,
+    "soz": "Kaçanı kovmazlar, yıkılanı vurmazlar",
+    "anlami": "Kaçan bir düşmanı kovalayıp ezmeye çalışmak mertliğe yakışmaz, âciz olduğunu göstereni de vurmak insanlık değildir."
+  },
+  {
+    "id": 328,
+    "soz": "Kaçanın anası ağlamamış",
+    "anlami": "Tehlikeden kaçan kazançlı çıkmış."
+  },
+  {
+    "id": 329,
+    "soz": "Kader olmayınca kadir bilinmez",
+    "anlami": "Kişi talihsiz ise ne kadar iyi insan olursa olsun, değeri bilinmez .330-Kadı anlatışa göre fetva verir : Haksız kişi, olayı kendisini haklı gibi göstererek anlatırsa dinleyen ona hak verir."
+  },
+  {
+    "id": 331,
+    "soz": "Kalaylı bakır küflenmez",
+    "anlami": "Temizliğini herkesin bildiği kişi ve iş lekelenemez."
+  },
+  {
+    "id": 332,
+    "soz": "Kanaat gibi devlet olmaz",
+    "anlami": "Elindekiyle yetinmesini bilen kişi yokluk nedir bilmez."
+  },
+  {
+    "id": 333,
+    "soz": "Kar kuytuda, para pintide eğleşir",
+    "anlami": "Her şey, saklanabilen yerde ve saklamasını bilenin yanında bulunu r. - ATASÖZLERİ - 42334-Kar ne kadar çok yağsa yaza kalmaz : Elverişli bir ortamda çoğalan şeyler, ortam elverişliliğini yitirince yok olur."
+  },
+  {
+    "id": 335,
+    "soz": "Kar susuzluk kandırmaz",
+    "anlami": "Gerçek gereksinimler, avutucu, oyalayıcı şeylerle karşılanmaz."
+  },
+  {
+    "id": 336,
+    "soz": "Karaya sabun, deliye öğüt neylesin",
+    "anlami": "Özü bozuk olan şey, düzeltme çabalarıyla iyi duruma getirilemez."
+  },
+  {
+    "id": 337,
+    "soz": "Kardeş kardeşi atmış, yar başına tutmuş",
+    "anlami": "Kardeşler ne kadar geçimsiz olsalar da kötü bir durumda birbirlerine yardım ederler.338-Karga kekliği taklit edeyim derken kendi yürüyüşünü şaşırmış : Görgüsüz kişi, görgülü kişinin yaptığını yapmaya kalkışırsa beceremez, kendisinin doğal davranışını da yitirir, gülünç duruma düşer."
+  },
+  {
+    "id": 339,
+    "soz": "Karıncadan ibret al, yazdan kışı karşılar",
+    "anlami": "Kişi çalışıp kazanabildiği zamanı boş geçirmemeli, çalışamayacağı günler için geçimini sağlayacak varlık edinmelidir."
+  },
+  {
+    "id": 340,
+    "soz": "Karıncanın zevali gelince kanatlanır",
+    "anlami": "Kişi durumunun gereklerine aykırı taşkınlıklarda bulunursa artık düşecek demektir . - ATASÖZLERİ - 43341-Katrandan olmaz şeker, olsa da cinsine çeker : Kötü soylu şey ve kişi iyiye dönmez."
+  },
+  {
+    "id": 342,
+    "soz": "Katranı kaynatsan olur mu şeker? Kişi, kendi özünü veya asıl özelliklerini değiştirmiş gibi görünse de asla değişmez. 343-Kavgada kılıç ödün vermez",
+    "anlami": "Kişi, savunma silahını başkasına verip kendisini savunamayacak ve yenilgiye uğrayacak duruma düşmemelidir."
+  },
+  {
+    "id": 344,
+    "soz": "Kaymağı seven mandayı yanında taşır",
+    "anlami": "Sevdiği şeyden yoksun kalmak istemeyen kişi, onu sağlayacak araçları eli altında bulundurmalı ve bunun için gereken sıkıntılara katlanmalıdır .345-Kaza geliyorum demez : Kaza , beklenmedik zamanda, ansızın olur."
+  },
+  {
+    "id": 346,
+    "soz": "Keçi kurttan kurtulsa gergedan olur",
+    "anlami": "Tehlikeler olmasa her şey alabildiğine gelişir"
+  },
+  {
+    "id": 347,
+    "soz": "Keçi nereye çıkarsa oğlağı da oraya çıkar",
+    "anlami": "Büyüklerin tuttuğu yol, küçüklere örnek olur."
+  },
+  {
+    "id": 348,
+    "soz": "Keçiye can kaygısı, kasaba yağ kaygısı",
+    "anlami": "Bir kişi kaybından dolayı kıvranırken, başkası bundan ne kadar yararlanabileceğinin hesabını yapar . - ATASÖZLERİ - 44349-Kedinin boynuna ciğer asılmaz : Bir kimseye, kullanıp zarar vereceği, kendine mal edip ortadan kaldıracağı şey emanet edilmez ."
+  },
+  {
+    "id": 350,
+    "soz": "Kedinin gideceği samanlığa kadar",
+    "anlami": "Uygunsuz iş yapan kişi, ne kadar kaçarsa kaçsın, gideceği yer bellidir, kısa zamanda yakayı ele verir."
+  },
+  {
+    "id": 351,
+    "soz": "Kedinin kanadı olsaydı serçenin adı kalmazdı",
+    "anlami": "Saldırganlar istediklerini yapabilecek durumda olsalardı, zayıfları kolaylıkla ortadan kaldırır , bol bol çıkarlarını sağlarlardı .352-Kedinin usluluğu sıçan görünceye kadar : Atılgan kişilerin sessiz ve eylemsiz durmaları, onları çileden çıkaran bir durum baş gösterince sona erer."
+  },
+  {
+    "id": 353,
+    "soz": "Kediyi sıkıştırırsan üstüne atılır",
+    "anlami": "Senden çekinen, korkan kişi, çok sıkıştırırsan sana karşı gelir."
+  },
+  {
+    "id": 354,
+    "soz": "Kenarın dilberi nazik de olsa nazenin olmaz",
+    "anlami": "Kibar çevrede yetişmemiş olanlar, ne denli özenseler kibarlığın bütün inceliklerini gösteremezler. - ATASÖZLERİ - 45355-Kepenek altında er yatar : İnsanları giydiğine bakarak değerlendirmek yanlışlara yol açar, değerli kişiler de bazen eski giymiş olabilir."
+  },
+  {
+    "id": 356,
+    "soz": "Kes parmağını çık pazara, merhem buyuran çok olur",
+    "anlami": "Kişinin bir ihtiyaç içinde bulunduğunu gören herkes ona değişik yol gösterir."
+  },
+  {
+    "id": 357,
+    "soz": "Kır atın yanında duran ya huyundan ya suyundan",
+    "anlami": "Kişi, arkadaşlık ettiği kimseden etkilenir."
+  },
+  {
+    "id": 358,
+    "soz": "Kısmet gökten zembille inmez",
+    "anlami": "Çalışmayanın kısmeti olmaz .359-Kısmet ise gelir Hint’ten, kısmet değilse ne gelir elden? Tanrı bir şeyi size kısmet etmişse o mutlaka size gelir, kısmet etmemişse yapacak bir şey yoktur."
+  },
+  {
+    "id": 360,
+    "soz": "Kırk gün taban eti, bir gün av eti",
+    "anlami": "Avcılar bir av avlayabilmek için dağ demez, taş demez, günlerce taban teperler."
+  },
+  {
+    "id": 361,
+    "soz": "Kırk yıl kıran olmuş, eceli gelen ölür",
+    "anlami": "Salgın ve öldürücü hastalık da olsa eceli gelmeyen ölmez ."
+  },
+  {
+    "id": 362,
+    "soz": "Kırk yıllık Kâni , olur mu Yani",
+    "anlami": "Eskimiş bir alışkanlık kolay kolay değişmez . - ATASÖZLERİ - 46363-Kırkından sonra saza başlayan kıyamette çalar : Yaşlandıktan sonra bir şey öğrenmeye, yeni bir iş yapmaya başlayan kimsenin bunu başarmaya ömrü yetmez ."
+  },
+  {
+    "id": 364,
+    "soz": "Kısmet gökten zembille inmez",
+    "anlami": "Kısmet durup dururken kişinin ayağına gelmez, çalışmakla elde edilir."
+  },
+  {
+    "id": 365,
+    "soz": "Kısmetinde ne varsa kaşığına o çıkar",
+    "anlami": "Kişi ne kadar çalışırsa çalışsın, çabalarsa çabalasın alın yazısındaki şeye ulaşır. 366-Kısmetsiz köpek, sabaha karşı uyuyakalır : Tanrı kendisine kısmet vermemiş olan yaratık, yararlanılacak şeyi elde etmek kolaylaştığı zaman, başka bir işle uğraştığı için bundan yoksun kalır."
+  },
+  {
+    "id": 367,
+    "soz": "Kız kundakta, çeyiz sandıkta",
+    "anlami": "Kız daha kundakta iken çeyiz düzmeye başlamak gerekir."
+  },
+  {
+    "id": 368,
+    "soz": "Kızım sana söylüyorum, gelinim sen anla",
+    "anlami": "Herhangi birine dolaylı olarak söylenecek uyarı söz konusu olduğunda kullanılan bir söz. - ATASÖZLERİ - 47369-Kimi köprü bulamaz geçmeye, kimi su bulamaz içmeye : İnsanların nasipleri arasındaki tutarsızlıkları belirten bir söz."
+  },
+  {
+    "id": 370,
+    "soz": "Kimse bilmez kim kazana kim yiye",
+    "anlami": "Bir kimsenin çalışıp çabalayarak kazandığı malı kimi zaman hatır ve hayalde olmayan kişiler yer."
+  },
+  {
+    "id": 371,
+    "soz": "Kişi arkadaşından bellidir",
+    "anlami": "Bir kimsenin nasıl bir kişi olduğunu öğrenmek isteyen, arkadaşının kimliğine bakmalıdır."
+  },
+  {
+    "id": 372,
+    "soz": "Kişi ne yaparsa kendine yapar",
+    "anlami": "İyilik yapan iyilik, kötülük yapan kötülük bulur. .373-Kişi refikinden azar : Kötü arkadaş insanı kötü yola sürükler."
+  },
+  {
+    "id": 374,
+    "soz": "Kişinin kendine ettiğini kimse edemez",
+    "anlami": "Bir kimse kimi zaman tedbirsizliği yüzünden öyle yanlış iş yapar, başını öyle derde sokar ki böyle bir kötülüğü başkaları ona yapamaz."
+  },
+  {
+    "id": 375,
+    "soz": "Komşu ekmeği komşuya borçtur",
+    "anlami": "Komşunuz size bir ikramda bulunur, bir şey armağan ederse siz de ona ikramda bulunmalı , armağan vermelisiniz. - ATASÖZLERİ - 48376-Komşu kızı almak, kalaylı kaptan su içmek gibidir : Komşu kızını almaya karar veren, ailenin ve kızın durumunu, gidişini iyi bildiğinden içi rahat olarak bu ilişkiyi kurar."
+  },
+  {
+    "id": 377,
+    "soz": "Komşu komşunun külüne muhtaçtır",
+    "anlami": "Komşular en küçük şey için bile birbirlerine muhtaçtırlar."
+  },
+  {
+    "id": 378,
+    "soz": "Komşunu iki inekli iste ki kendin bir inekli olasın",
+    "anlami": "Başkasının daha iyi durumda olmasını iste ki Tanrı da seni ondursun."
+  },
+  {
+    "id": 379,
+    "soz": "Komşunun tavuğu komşuya kaz görünür",
+    "anlami": "Başka bir kimsenin malı bize olduğundan daha değerli görünür .380-Kork Allah’tan korkmayandan : Tanrı'dan korkmayan kimse, insana her türlü kötülüğü yapabilir."
+  },
+  {
+    "id": 381,
+    "soz": "Kork aprilin beşinden öküzü ayırır eşinden",
+    "anlami": "Nisan ayının beşinde çift süren iki öküzü birbirinden ayıracak kadar hava soğuk olur."
+  },
+  {
+    "id": 382,
+    "soz": "Korku dağları bekler",
+    "anlami": "Korku her yerde varlığını gösterir."
+  },
+  {
+    "id": 383,
+    "soz": "Korkunun ecele faydası yoktur",
+    "anlami": "Kişi korkmakla kendisine gelecek bir kötülüğü önleyemez . - ATASÖZLERİ - 49384-Kör görmez sezer : Kör görmediği şeyi nasıl sezerse bir konu üzerinde bilgisi olmayan kişinin de o konu ile ilgili sezişleri olur."
+  },
+  {
+    "id": 385,
+    "soz": "Körler memleketinde şaşılar padişah olur",
+    "anlami": "Hepsi bilgisiz olan bir çevrede azıcık bilgisi bulunan başa geçer."
+  },
+  {
+    "id": 386,
+    "soz": "Kötü komşu insanı hacet sahibi eder",
+    "anlami": "Kötü komşu kendisinden emanet olarak istenen şeyi vermez, emanet isteyen de gidip o şeyden satın alır."
+  },
+  {
+    "id": 387,
+    "soz": "Kuş, kanadına kira istemez",
+    "anlami": "Kişi, kendi işi için zaten harcayacağı çabadan dolayı başkasından karşılık beklemez .388-Kuş vardır eti yenir, kuş vardır et yedirilir : Öyle kişiler vardır ki acımadan en ağır işte kullanılır, öyle kişiler de vardır ki iş gördürmek şöyle dursun onlara hizmet edilir"
+  },
+  {
+    "id": 389,
+    "soz": "Küheylan at, çul içinde de bellidir",
+    "anlami": "Cevherli insan, kılık kıyafeti düzgün olmasa da değerini yitirmez."
+  },
+  {
+    "id": 390,
+    "soz": "Kürk ile börk ile adam olunmaz",
+    "anlami": "Kılık kıyafet, değeri olmayan kişiye değer kazandırmaz."
+  },
+  {
+    "id": 391,
+    "soz": "Laf lafı açar",
+    "anlami": "Bir konu üzerinde konuşulurken ilgisi dolayısıyla söz başka bir konuya geçer, sohbet uzar, gider . - ATASÖZLERİ - 50392-Laf torbaya girmez : Ağızdan çıkan bir söz, artık gizli kalmaz, herkes onu duyar."
+  },
+  {
+    "id": 393,
+    "soz": "Lâfla peynir gemisi yürümez",
+    "anlami": "Şöyle yaparım, böyle yaparım demekle yapılması gereken iş yapılmaz ."
+  },
+  {
+    "id": 394,
+    "soz": "Lokma çiğnemeden yutulmaz",
+    "anlami": "Her iş emekle yapılır."
+  },
+  {
+    "id": 395,
+    "soz": "Lokma karın doyurmaz, şefaat artırır",
+    "anlami": "Bir kimseye verilen armağan, aradaki sevgiyi artırdığı için değerlidir"
+  },
+  {
+    "id": 396,
+    "soz": "Mahkeme kadıya mülk değil",
+    "anlami": "Hiç kimse, bulunduğu kamu hizmetinde ömrünün sonuna kadar kalamaz .397-Mal adama hem dost hem düşmandır : Malın insana yararı olduğu gibi zararı da vardır."
+  },
+  {
+    "id": 398,
+    "soz": "Mal canı kazanmaz, can malı kazanır",
+    "anlami": "İnsan mal kazanacağım diye sağlığını tehlikeye atmamalıdır."
+  },
+  {
+    "id": 399,
+    "soz": "Mal canın yongasıdır",
+    "anlami": "İnsan , malına gelen zarardan, canına gelmişçesine acı duyar."
+  },
+  {
+    "id": 400,
+    "soz": "Mal da yalan mülk de yalan, var biraz da sen oyalan",
+    "anlami": "Bu dünya gelip geçicidir, mala mülke fazla değer vermemek gerekir. - ATASÖZLERİ - 51401-Mal sahibi mülk sahibi, hani bunun ilk sahibi : Malı mülkü yüzünden kendini üzüntüye kaptırmamak veya malı mülkü ile övünmemek gerektiğini anlatan bir söz."
+  },
+  {
+    "id": 402,
+    "soz": "Malı ongun olanın adı angın olur",
+    "anlami": "Malından çok ürün alan kişinin adı her yerde anılır."
+  },
+  {
+    "id": 403,
+    "soz": "Malın iyisi boğazdan geçer",
+    "anlami": "Kişinin , yiyemediği malının bir değeri yoktur."
+  },
+  {
+    "id": 404,
+    "soz": "Mart ayı dert ayı",
+    "anlami": "Mart ayında havalar sık sık değiştiği için insan kendisini koruyamaz ve hasta olur."
+  },
+  {
+    "id": 405,
+    "soz": "Mart çıkmadıkça dert bitmez",
+    "anlami": "Kış hastalıkları, mart sona ermedikçe bitmez .406-Mart dokuzunda çıra yak, bağ buda : Mart ayının dokuzunda bağların kesinlikle budanması gerekir, bu iş gündüz yetiştirilemezse gece çıra ışığında yapılmaya değecek kadar önemlidir."
+  },
+  {
+    "id": 407,
+    "soz": "Mart kapıdan baktırır, kazma kürek yaktırır",
+    "anlami": "Mart ayındaki şiddetli soğuklarda insanlar ellerine geçen her şeyi yakmak zorunda kalırlar ."
+  },
+  {
+    "id": 408,
+    "soz": "Maymun gözünü açtı",
+    "anlami": "Geçen bir olaydan ders alındığını anlatan bir söz."
+  },
+  {
+    "id": 409,
+    "soz": "Mızrak çuvala sığmaz",
+    "anlami": "Gizli tutulması imkânsız durumlar karşısında söylenen bir söz . - ATASÖZLERİ - 52410-Mürüvvete endaze olmaz : Yardım ve iyiliğin sınırı yoktur."
+  },
+  {
+    "id": 411,
+    "soz": "Ne dağda bağım var ne çakaldan davam",
+    "anlami": "Tuttuğum bir taraf yok ki ona saldıranların karşısında olayım."
+  },
+  {
+    "id": 412,
+    "soz": "Ne ekersen onu biçersin",
+    "anlami": "Nasıl davranırsan öyle karşılık görürsün."
+  },
+  {
+    "id": 413,
+    "soz": "Ne kokar ne bulaşır",
+    "anlami": "Kimseye iyiliği de dokunmaz, kötülüğü de."
+  },
+  {
+    "id": 414,
+    "soz": "Ne od var ne ocak",
+    "anlami": "Yoksulluk ve perişanlık içinde."
+  },
+  {
+    "id": 415,
+    "soz": "Ne şiş yansın ne kebap",
+    "anlami": "İki taraf da gücendirilmesin veya korunsun .416-Ne yârdan geçilir ne serden : İnsan ne kendinden ne de sevdiklerinden kolay kolay vazgeçemez."
+  },
+  {
+    "id": 417,
+    "soz": "Nefesine güvenen borazancıbaşı olur",
+    "anlami": "Başarabileceğine emin olanlar büyük işlere girişmelidir."
+  },
+  {
+    "id": 418,
+    "soz": "Nerede hareket, orda bereket",
+    "anlami": "Hareket olan yerde bolluk olur."
+  },
+  {
+    "id": 419,
+    "soz": "Oduncunun gözü omçada",
+    "anlami": "Herkes işine yarayan şeyi elde etmeye çalışır."
+  },
+  {
+    "id": 420,
+    "soz": "Okka her yerde dört yüz dirhem",
+    "anlami": "Konuşulan bir gerçeğin açıklığını ve tartışma götürmezliğini anlatmak için söylenen bir söz. - ATASÖZLERİ - 53421-Olacakla öleceğe çare bulunmaz : İnsanın alnına yazılmış olan şeyler önlenemez."
+  },
+  {
+    "id": 422,
+    "soz": "Ölüm Allah’ın emri",
+    "anlami": "Herkes ölecek, ölmek kaçınılmazdır."
+  },
+  {
+    "id": 423,
+    "soz": "Ölüm hak miras helal",
+    "anlami": "Ölümün olağan olması gibi mirasın da paylaşılması olağandır."
+  },
+  {
+    "id": 424,
+    "soz": "Ölümle öç alınmaz",
+    "anlami": "Düşmanların ölümünden sevinç duymak insanlığa yakışmaz."
+  },
+  {
+    "id": 425,
+    "soz": "Papaz her gün pilav yemez",
+    "anlami": "Bir insanı hep aynı hileyle kandıramazsın."
+  },
+  {
+    "id": 426,
+    "soz": "Para parayı çeker",
+    "anlami": "Elde para bulunursa onunla yeni paralar kazanılır. .427-Para peşin, kırmızı meşin : Her işin karşılığı anında ödenmelidir."
+  },
+  {
+    "id": 428,
+    "soz": "Paranın yüzü sıcaktır",
+    "anlami": "Paranın çekiciliğini ve geri çevrilemeyeceğini anlatan bir söz ."
+  },
+  {
+    "id": 429,
+    "soz": "Parayı araya değil, paraya vermeli",
+    "anlami": "Parayı gerekli yere harcamalı."
+  },
+  {
+    "id": 430,
+    "soz": "Parayı veren düdüğü çalar",
+    "anlami": "Karşılığını ödediğinde insan istediğini elde edebilir."
+  },
+  {
+    "id": 431,
+    "soz": "Pekmez gibi malın olsun, Antakya’dan sinek gelir",
+    "anlami": "Malı güzel kişi için müşteri kaygısı yoktur, onun malına uzak yerlerden bile istekli çıkar. - ATASÖZLERİ - 54432-Perşembenin gelişi çarşambadan bellidir : Bir işin sonunun nasıl olacağı şimdiki gidişinden belli olur."
+  },
+  {
+    "id": 433,
+    "soz": "Pilav yiyen kaşığını yanında taşır",
+    "anlami": "Bir şeyden yararlanmak isteyen kişi, bunun için gereken aracı eli altında bulundurmalıdır ."
+  },
+  {
+    "id": 434,
+    "soz": "Pilavdan dönenin kaşığı kırılsın",
+    "anlami": "Yararlı bir şeyi elde etmek için sonuna kadar uğraşılmalı, direnilmelidir."
+  },
+  {
+    "id": 435,
+    "soz": "Rüzgârlı havanın kuytusu, yağmurlu havanın uykusu",
+    "anlami": "Rüzgârlı havada kuytu bir yer, yağmurlu bir havada da uyku tercih edilir. 436-Sabah ola, hayrola : Sabah olsun, o vakte kadar iş belki düzelir."
+  },
+  {
+    "id": 437,
+    "soz": "Sabır acıdır, meyvesi tatlıdır",
+    "anlami": "Sabır zor bir iştir ancak güzel sonuçları vardır."
+  },
+  {
+    "id": 438,
+    "soz": "Saçın ak mı kara mı, önüne düşünce görürsün",
+    "anlami": "Acele etme, sonucun ne olduğunu biraz sonra görürsün."
+  },
+  {
+    "id": 439,
+    "soz": "Sağ elinin verdiğini sol elin görmesin",
+    "anlami": "Birine yaptığın iyiliği gizli tutmalısın."
+  },
+  {
+    "id": 440,
+    "soz": "Sakalım yok ki sözüm dinlensin",
+    "anlami": "Ancak yaşlı kimselerin söz ve öğütleri dinlenir . - ATASÖZLERİ - 55441-Sakınılan göze çöp batar : Üzerine çok düşülen şeyler genellikle kazaya veya zarara uğrar."
+  },
+  {
+    "id": 442,
+    "soz": "Sakla samanı, gelir zamanı",
+    "anlami": "Gereksiz görülen şey ilerde gerekli olabilir."
+  },
+  {
+    "id": 443,
+    "soz": "Sarhoştum aydım, böyle yaşamaktan caydım",
+    "anlami": "Artık gerçekleri gördüm."
+  },
+  {
+    "id": 444,
+    "soz": "Sarımsak yemedim ki ağzım koksun",
+    "anlami": "Kötü bir iş yapmadım ki sonucundan korkayım, sorumlu olayım."
+  },
+  {
+    "id": 445,
+    "soz": "Satılık ziftin olsun, Selanik’ten kel gelir",
+    "anlami": "İşe yaramaz sandığın bir malı satılığa çıkarırsan akla gelmeyen yerlerden onu arayanlar gelir.446-Sel gider, kum kalır : Geçici durumlara güvenmek doğru değildir."
+  },
+  {
+    "id": 447,
+    "soz": "Selam verdik, borçlu çıktık",
+    "anlami": "Küçük bir ilgi gösterdik, üzerimize büyük bir iş yüklediler."
+  },
+  {
+    "id": 448,
+    "soz": "Sen giderken ben geliyordum",
+    "anlami": "Ben bu işi senden önce yaptım."
+  },
+  {
+    "id": 449,
+    "soz": "Seninki can da benimki patlıcan mı? Senin canının değeri var da benimkinin değeri yok mu? 450-Serçeden korkan darı ekmez",
+    "anlami": "Tehlikeleri gözde büyüterek işe girişmekte çekingen davrananlar amaçlarına ulaşamazlar . - ATASÖZLERİ - 56451-Sinek küçüktür ama mide bulandırır : Önemsiz , küçük gibi görünen bir şey kötü ve olumsuz bir izlenim yaratır."
+  },
+  {
+    "id": 452,
+    "soz": "Son pişmanlık fayda vermez",
+    "anlami": "İş işten geçtikten sonra pişman olmanın yararı yoktur."
+  },
+  {
+    "id": 453,
+    "soz": "Sorma kişinin aslını sohbetinden bellidir",
+    "anlami": "Birinin nasıl bir karakterde olduğu konuşmasından ve davranışlarından anlaşılır."
+  },
+  {
+    "id": 454,
+    "soz": "Su bulanmayınca durulmaz",
+    "anlami": "Bir konu türlü çekişmeden sonra aydınlığa kavuşur ,yoluna girer."
+  },
+  {
+    "id": 455,
+    "soz": "Su testisi su yolunda kırılır",
+    "anlami": "Bir kişi amaç edindiği işte kazaya uğrar. 456-Suyu havana koy, döv döv yine su : Etkili bir özelliği bulunan kişi ya da nesnenin bu özelliği ne kadar uğraşılırsa uğraşılsın değişmez."
+  },
+  {
+    "id": 457,
+    "soz": "Suyu görünce teyemmüm bozulur",
+    "anlami": "Bir zorunluluk dolayısıyla yapılmakta olan bir işin, bu zorunluluk ortadan kalktığında gereği gibi yapılmak için yeni baştan ele alınması gerekir."
+  },
+  {
+    "id": 458,
+    "soz": "Sütten ağzı yanan ayranı üfleyerek içer",
+    "anlami": "Bir davranışı kendisine pahalıya mal olan kişi, benzeri durumda ihtiyatlı davranır . - ATASÖZLERİ - 57459-Şeytanın dostluğu darağacına kadardır : Kötü arkadaş kişiyi yoldan çıkarıp ölüme kadar sürükleyebilir, ama ölümün eşiğinde onu kaderiyle baş başa bırakır."
+  },
+  {
+    "id": 460,
+    "soz": "Tabak sevdiği deriyi taştan taşa çalar",
+    "anlami": "Birinin yakınlarına gösterdiği sert davranış onun iyiliği içindir."
+  },
+  {
+    "id": 461,
+    "soz": "Tarlada izi olmayanın harmanda sözü olmaz",
+    "anlami": "Kendini işe vermeyenden, bir iş üretmeyenden hayır gelmez."
+  },
+  {
+    "id": 462,
+    "soz": "Taş attın da kolun mu yoruldu? Bu kazancı hiç yorulmadan elde ettin.463-Taş yerinde ağırdır",
+    "anlami": "Herkesin , her şeyin kendi çevresinde önem taşıdığını anlatan bir söz."
+  },
+  {
+    "id": 464,
+    "soz": "Taşı sıksa suyunu çıkarır",
+    "anlami": "Çok güçlü biridir, her zorluğun üstesinden gelir."
+  },
+  {
+    "id": 465,
+    "soz": "Taşıma su ile değirmen dönmez",
+    "anlami": "İşi yapacak olanda yeteri kadar güç bulunmadıkça başkalarının küçük katkılarıyla sürekli ve büyük bir iş yürütülemez."
+  },
+  {
+    "id": 466,
+    "soz": "Tatlı dil yılanı deliğinden çıkarır",
+    "anlami": "Gönül alıcı, okşayıcı sözlerle karşımızdakinin inadı yenilebilir. - ATASÖZLERİ - 58467-Tavşan dağa küsmüş, dağın haberi olmamış : Önemsiz kişi, önemli kişiye küsse önemli kişinin umurunda bile olmaz."
+  },
+  {
+    "id": 468,
+    "soz": "Tavuğun sadakası bir yumurta",
+    "anlami": "Gücü büyük işler yapmaya yetmeyen ya da zengin olmayan kişilerden ancak küçük yardımlar beklenebilir."
+  },
+  {
+    "id": 469,
+    "soz": "Tekerlek kırıldıktan sonra yol gösteren çok olur",
+    "anlami": "Sonucu kötü çıktıktan sonra bir davranış üzerine akıl öğreten çok bulunur."
+  },
+  {
+    "id": 470,
+    "soz": "Tekkeyi bekleyen çorbayı içer",
+    "anlami": "Bir şeyi elde etmek için bazı sıkıntılara katlanmak gerekir. 471-Tembele iş buyur, sana akıl öğretsin : Kendisinden bir konuda yardımcı olması istendiğinde yardım edeceği yerde çözüm yolları gösteren kimseler için kullanılan bir söz"
+  },
+  {
+    "id": 472,
+    "soz": "Terzi kendi söküğünü dikemez",
+    "anlami": "İnsanlar başkalarına yaptıkları hizmetleri kendilerine yapamazlar."
+  },
+  {
+    "id": 473,
+    "soz": "Teşbihte hata olmaz",
+    "anlami": "Yeri geldiği zaman çirkin, kaba bir benzetme ile anlatıma daha etkili bir hava verilmesi saygısızca bir davranış değildir, kimse bundan alınmamalıdır. - ATASÖZLERİ - 59474-Tilki tilkiliğini anlayıncaya kadar post elden gider : Bir gerçeği anlatıncaya kadar çoğu kez başa gelmedik kalmaz."
+  },
+  {
+    "id": 475,
+    "soz": "Tilkinin dönüp dolaşıp geleceği yer kürkçü dükkânıdır",
+    "anlami": "Bir kişi ne kadar farklı yerlerde yaşarsa yaşasın, ne kadar farklı işlerle uğraşırsa uğraşsın , bağı bulunduğu çevreye veya işe dönmek zorunda kalır."
+  },
+  {
+    "id": 476,
+    "soz": "Tok açın hâlinden bilmez",
+    "anlami": "Varlıklı olan, yoksulun ne denli sıkıntı içinde olduğunu bilmez."
+  },
+  {
+    "id": 477,
+    "soz": "Ucuz alan, pahalı alır",
+    "anlami": "Ucuz olan mal çabuk eskir, pahalıya alınmış gibi olur."
+  },
+  {
+    "id": 478,
+    "soz": "Ucuz etin yahnisi yavan olur",
+    "anlami": "Ucuza mal olan şeyler niteliksizdir. 479-Ucuzdur vardır illeti, pahalıdır vardır hikmeti : Ucuz şeylerin ucuzluğuna tamah etmemeli, pahalı şeylerin de pahalılığından korkulmamalıdır ."
+  },
+  {
+    "id": 480,
+    "soz": "Ummadığın taş baş yarar",
+    "anlami": "Küçük veya önemsiz şeyler de çoğu kez büyük etkiler yapabilir."
+  },
+  {
+    "id": 481,
+    "soz": "Uyuyan yılanın kuyruğuna basma",
+    "anlami": "Size zararı dokunmayacak kişiyi saldırgan duruma getirecek davranışlarda bulunmayınız."
+  },
+  {
+    "id": 482,
+    "soz": "Üzüm üzüme baka baka kararır",
+    "anlami": "Her zaman bir arada bulunan kişiler birbirlerine huy aşılarlar . - ATASÖZLERİ - 60483-Üşüntü köpekler mandayı paralar : Birlikten güç doğar."
+  },
+  {
+    "id": 484,
+    "soz": "Vakitsiz öten horozun başını keserler Her söz yerinde ve zamanında söylenmelidir. Zamansız ve yersiz söylenen sözler büyük zararlara yol açabilir. 485-Vermeyince mabut, neylesin Sultan Mahmut",
+    "anlami": "Allah geniş bir yaşama ya da yetenek kısmet etmemişse kulun elinden ne gelir?"
+  },
+  {
+    "id": 486,
+    "soz": "Yanlış hesap Bağdat’tan döner",
+    "anlami": "Ortaya çıkan bir yanlışlık çok geç de olsa düzeltilebilir. 487-Yarası olan gocunur : Bir işte sorumlu aranırken kusuru olan kimse telaşa düşer."
+  },
+  {
+    "id": 488,
+    "soz": "Yarım elma, gönül alma",
+    "anlami": "Armağan küçük de olsa gönül almaya yeter."
+  },
+  {
+    "id": 489,
+    "soz": "Yaş kesen baş keser",
+    "anlami": "Ağaç kesmek, insan öldürmek kadar büyük bir suçtur\" anlamında kullanılan bir söz."
+  },
+  {
+    "id": 490,
+    "soz": "Yavaş atın tekmesi yavuz olur",
+    "anlami": "Yumuşak huylu kimseler öfkelendiklerinde aşırı davranışlarda bulunurlar."
+  },
+  {
+    "id": 491,
+    "soz": "Yel gibi gelen sel gibi gider",
+    "anlami": "Emek vermeden ele geçen para çarçur olur gider . - ATASÖZLERİ - 61492-Yeme de yanında yat : Çok lezzetli veya çok hoş olan şeyler için söylenen bir söz."
+  },
+  {
+    "id": 493,
+    "soz": "Yiğit meydanda belli olur",
+    "anlami": "Sözle atıp tutmak kolaydır, asıl marifet iş başında kendini göstermekle olur."
+  },
+  {
+    "id": 494,
+    "soz": "Yüz yüzden utanır",
+    "anlami": "İnsanlar karşı karşıya geldiklerinde daha kolay uzlaşabilirler."
+  },
+  {
+    "id": 495,
+    "soz": "Zahmetsiz rahmet olmaz",
+    "anlami": "Sıkıntı , güçlük çekmeden iyi ve güzel işler başarılamaz."
+  },
+  {
+    "id": 496,
+    "soz": "Zenginin malı züğürdün çenesini yorar",
+    "anlami": "Birinin zenginliğinden çok söz etmenin gereksizliğini, yersizliğini belirtmek için söylenen bir söz.497-Zor oyunu bozar : Hile, güç kullanarak düzenlenen oyun boşa çıkarıldığında söylenen bir söz."
+  },
+  {
+    "id": 498,
+    "soz": "Zorla güzellik olmaz",
+    "anlami": "Kişiye beğenmediği şey zorla beğendirilemez."
+  },
+  {
+    "id": 499,
+    "soz": "Zurnada peşrev olmaz, ne çıkarsa bahtına",
+    "anlami": "Rastgele yapılan plansız işlerde yöntem, kural aranmaz."
+  },
+  {
+    "id": 500,
+    "soz": "Zürefanın düşkünü, beyaz giyer kış günü",
+    "anlami": "Daha önce iyi bir durumda olan kişi bu konumunu kaybettiğinde uygun olmayan, yersiz davranışlarda bulunur, herkesin yadırgadığı işler yapar. - ATASÖZLERİ - 63 BÖLÜM 2 DEYİMLER 62"
+  },
+  {
+    "id": 631,
+    "soz": "Abayı sermek",
+    "anlami": "Uzun süre yerleşip kalmak."
+  },
+  {
+    "id": 2,
+    "soz": "Abayı yakmak",
+    "anlami": "Birine aşırı bir biçimde gönül vermek, tutulmak , âşık olmak."
+  },
+  {
+    "id": 3,
+    "soz": "Açık kapı bırakmak",
+    "anlami": "Gereğinde , bir konuya yeniden dönebilme imkânı bırakmak, kesip atmamak ."
+  },
+  {
+    "id": 4,
+    "soz": "Ağız değiştirmek",
+    "anlami": "Önce söylediğini başka türlü anlatmak."
+  },
+  {
+    "id": 5,
+    "soz": "Akla karayı seçmek",
+    "anlami": "Bir işi başarıncaya değin çok sıkıntı çekmek , güçlüklerle karşılaşmak ."
+  },
+  {
+    "id": 6,
+    "soz": "Akla hayale gelmemek",
+    "anlami": "İnanılmamak7-Aklına geleni yapmak : Her istediğini önünü sonunu düşünmeden yapmak."
+  },
+  {
+    "id": 8,
+    "soz": "Aklını peynir ekmekle yemek",
+    "anlami": "Düşüncesizce davranmak, delice işler yapmak."
+  },
+  {
+    "id": 9,
+    "soz": "Aklından çıkarmamak",
+    "anlami": "Sürekli hatırlamak, unutmamak"
+  },
+  {
+    "id": 10,
+    "soz": "Aralarından kara kedi geçmek",
+    "anlami": "Dostluk bağlarının gevşemesi, soğukluk girmesi."
+  },
+  {
+    "id": 11,
+    "soz": "Arpacı kumrusu gibi düşünmek",
+    "anlami": "İçinde bulunduğu sorunu nasıl çözeceğini uzun uzun düşünmek. - DEYİMLER -"
+  },
+  {
+    "id": 12,
+    "soz": "Asıp kesmek",
+    "anlami": "İşbaşında bulunan bir kimse yasayı çiğneyerek sert davranmak."
+  },
+  {
+    "id": 13,
+    "soz": "Aşık atmak",
+    "anlami": "Yarışmak , yarış etmek."
+  },
+  {
+    "id": 14,
+    "soz": "Ayağını yorganına göre uzatmak",
+    "anlami": "Giderini gelirine uydurmak."
+  },
+  {
+    "id": 15,
+    "soz": "Ayakları geri geri gitmek",
+    "anlami": "Bir yere istemeye istemeye gitmek."
+  },
+  {
+    "id": 16,
+    "soz": "Baklayı ağzından çıkarmak",
+    "anlami": "Gizli tuttuğu şeyleri açıklamak, söyleyemediği şeyleri sabrı tükenince söylemek."
+  },
+  {
+    "id": 17,
+    "soz": "Balık kavağa çıkınca",
+    "anlami": "Gerçekleşme olanağı bulunmayan şeyin gerçekleşebileceği kabul edilirse.18-Bam teline basmak : Birinin çok kızacağı şeyi yapmak veya sözü söylemek."
+  },
+  {
+    "id": 19,
+    "soz": "Benzine kan gelmek",
+    "anlami": "Sağlıklı duruma gelmek, canlanmak"
+  },
+  {
+    "id": 20,
+    "soz": "Bıyık altından gülmek",
+    "anlami": "Birinin durumuna belli etmemeye çalışarak gülümsemek."
+  },
+  {
+    "id": 21,
+    "soz": "Bindiği dalı kesmek",
+    "anlami": "Kendisine gerekli ve yararlı olan şeyi farkında olmadan yararsız duruma getirmek, kendi eliyle yok etmek."
+  },
+  {
+    "id": 22,
+    "soz": "Bir dediği bir dediğini tutmamak",
+    "anlami": "Söyledikleri birbirine uymamak, tutarsız konuşmak. - DEYİMLER - 64"
+  },
+  {
+    "id": 23,
+    "soz": "Bir kulağından girip öbür kulağından çıkmak",
+    "anlami": "Söylenen söze önem vermemek."
+  },
+  {
+    "id": 24,
+    "soz": "Boyunun ölçüsünü almak",
+    "anlami": "Kendi yetersizliğini, beceriksizliğini anlamak."
+  },
+  {
+    "id": 25,
+    "soz": "Bozuk çalmak",
+    "anlami": "Canı sıkılmış, yüzü asılmış olmak."
+  },
+  {
+    "id": 26,
+    "soz": "Buluttan nem kapmak",
+    "anlami": "En küçük bir şeyden alınmak, çok alıngan olmak."
+  },
+  {
+    "id": 27,
+    "soz": "Burnunda tütmek",
+    "anlami": "Çok özler , çok arar, çok ister olmak."
+  },
+  {
+    "id": 28,
+    "soz": "Burnundan kıl aldırmamak",
+    "anlami": "Kendisine söz söyletmemek, çok huysuz ve kibirli olmak.29-Can evinden vurmak : En etkileyici yönünden saldırmak."
+  },
+  {
+    "id": 30,
+    "soz": "Canı burnuna gelmek",
+    "anlami": "Bir şey yaparken çok zorluk çekmek."
+  },
+  {
+    "id": 31,
+    "soz": "Canını dişine takmak",
+    "anlami": "Her tehlikeyi göze alarak işe girişmek."
+  },
+  {
+    "id": 32,
+    "soz": "Cehenneme atsalar odun yaş diye bağırır",
+    "anlami": "Her şeye itiraz eder,çok densizdir , hiçbir durumu beğenmez."
+  },
+  {
+    "id": 33,
+    "soz": "Cendereye sokmak",
+    "anlami": "Manevi baskı altına almak."
+  },
+  {
+    "id": 34,
+    "soz": "Çamura bulaşmak",
+    "anlami": "Kirli ve uygunsuz bir işe karışmak. - DEYİMLER - 65"
+  },
+  {
+    "id": 35,
+    "soz": "Çetele tutmak",
+    "anlami": "Hesap tutmak amacı ile bir yere çizgiler çizmek."
+  },
+  {
+    "id": 36,
+    "soz": "Çil yavrusu gibi dağılmak",
+    "anlami": "Toplu olarak bulunan insanların her biri bir yana dağılmak."
+  },
+  {
+    "id": 37,
+    "soz": "Çizgisinden sapmamak",
+    "anlami": "Görüşlerinden vazgeçmemek, kararlı davranmak."
+  },
+  {
+    "id": 38,
+    "soz": "Çizmeyi aşmak",
+    "anlami": "Bilmediği , aklının ermediği, yetkisinin dışındaki bir işe kalkışmak."
+  },
+  {
+    "id": 39,
+    "soz": "Çorap söküğü gibi gitmek",
+    "anlami": "Başlayan birişveya birbirine bağlı birçok işarka arkaya vekolayca sürüp gitmek .40-Çorbada tuzu bulunmak : Bir iş veya görevde az da olsa emeği geçmiş olmak."
+  },
+  {
+    "id": 41,
+    "soz": "Çürük tahtaya basmak",
+    "anlami": "Tedbirsizlik edip sonu tehlikeli olabilecek bir işe girişmek."
+  },
+  {
+    "id": 42,
+    "soz": "Daldan dala konmak",
+    "anlami": "Çok sık, düşünce ya da konu değiştirmek."
+  },
+  {
+    "id": 43,
+    "soz": "Dalgibikalmak",
+    "anlami": "Vücudu çok zayıflamak."
+  },
+  {
+    "id": 44,
+    "soz": "Deveye hendek atlatmak",
+    "anlami": "Birine yapılması çok zor, hemen hemen imkânsız olan işleri yaptırabilmek. - DEYİMLER - 66"
+  },
+  {
+    "id": 45,
+    "soz": "Dikiş tutturamamak",
+    "anlami": "Bir işte veya bir yerde herhangi bir sebeple uzun süre kalamamak"
+  },
+  {
+    "id": 46,
+    "soz": "Dil dökmek",
+    "anlami": "Kandırmak , inandırmak veya yararlanmak için tatlı sözler söylemek."
+  },
+  {
+    "id": 47,
+    "soz": "Dile getirmek",
+    "anlami": "Belirtmek , anlatmak, açıklamak, ifade etmek."
+  },
+  {
+    "id": 48,
+    "soz": "Dilinde tüy bitmek",
+    "anlami": "Tekrar tekrar söylemekten usanmak, bıkmak."
+  },
+  {
+    "id": 49,
+    "soz": "Diline düşmek",
+    "anlami": "Yermek veya alay etmek amacıyla birinin kötü veya yanlış davranışını sürekli söylemek.50-Dilini tutamamak : Sonunu düşünmeden gelişigüzel konuşmak."
+  },
+  {
+    "id": 51,
+    "soz": "Dimyat’a pirince giderken evdeki bulgurdan olmak",
+    "anlami": "Daha iyi bir şey elde etmek uğruna elindekini de yitirmek."
+  },
+  {
+    "id": 52,
+    "soz": "Dört duvar arasından kalmak",
+    "anlami": "Evde, kapalı bir yerde kalmak zorunda olmak."
+  },
+  {
+    "id": 53,
+    "soz": "Dumanı tepesinden çıkmak",
+    "anlami": "Çok öfkelenmek."
+  },
+  {
+    "id": 54,
+    "soz": "Dut yemiş bülbüle dönmek",
+    "anlami": "Neşe ve konuşkanlığını yitirmek, susmak. - DEYİMLER - 67"
+  },
+  {
+    "id": 55,
+    "soz": "Dünya başına yıkılmak",
+    "anlami": "Çok sıkılmak, umutlarını yitirmek."
+  },
+  {
+    "id": 56,
+    "soz": "Dünyanın kaç bucak olduğunu anlamak",
+    "anlami": "Dünyada ne gibi güçlükler olduğunu bildirmek (veya anlamak), insanın başına neler gelebileceğini öğretmek veya öğrenmek."
+  },
+  {
+    "id": 57,
+    "soz": "Dünyalara değişmemek",
+    "anlami": "Her şeyden daha fazla sevmek"
+  },
+  {
+    "id": 58,
+    "soz": "Dünyayı tozpembe görmek",
+    "anlami": "Üzücü durumlara bile iyimser gözle bakmak."
+  },
+  {
+    "id": 59,
+    "soz": "Elayak çekilmek",
+    "anlami": "Ortalıkta kimse kalmamak, ıssızlaşıp sessizleşmek.60-El değiştirmek : Bir şeyin kullanımı veya mülkiyeti bir kimseden başka bir kimseye geçmek."
+  },
+  {
+    "id": 61,
+    "soz": "Elden düşürmemek",
+    "anlami": "Bir şeyle sürekli ilgilenmek, elden düşürmemek"
+  },
+  {
+    "id": 62,
+    "soz": "Eli boş dönmek",
+    "anlami": "Umduğunu alamadan dönmek"
+  },
+  {
+    "id": 63,
+    "soz": "Esamisi okunmamak",
+    "anlami": "Kendisine değer verilmemek, adı anılmamak ."
+  },
+  {
+    "id": 64,
+    "soz": "Eşeğini sağlam kazığa bağlamak",
+    "anlami": "İşini güven altına almak. - DEYİMLER - 68"
+  },
+  {
+    "id": 65,
+    "soz": "Eşiğine yüz sürmek",
+    "anlami": "Bir dilekte bulunmak için bir kişiye yalvarmaya gitmek ."
+  },
+  {
+    "id": 66,
+    "soz": "Etekleri zil çalmak",
+    "anlami": "Büyük sevinç içinde bulunmak"
+  },
+  {
+    "id": 67,
+    "soz": "Eteğindeki taşı dökmek",
+    "anlami": "Bütün bildiklerini açıklamak"
+  },
+  {
+    "id": 68,
+    "soz": "Etek öpmek",
+    "anlami": "Yaltaklanmak , dalkavukluk etmek"
+  },
+  {
+    "id": 69,
+    "soz": "Etliye sütlüye karışmamak",
+    "anlami": "Toplum içindeki çeşitli hareketlerden uzak durmak, hiçbir şeyle ilgilenmemek , tartışmalı konulardan kaçınmak."
+  },
+  {
+    "id": 70,
+    "soz": "Ezbere iş görmek",
+    "anlami": "İncelemeden gelişigüzel yapmak"
+  },
+  {
+    "id": 71,
+    "soz": "Faka basmak",
+    "anlami": "Aldatılmak, uzağa düşmek .72-Fareler cirit oynamak : Bir yerde hiç insan bulunmamak, o yer çok ıssız olmak ."
+  },
+  {
+    "id": 73,
+    "soz": "Ferman dinlememek",
+    "anlami": "Yasa , kural, yol yöntem tanımamak."
+  },
+  {
+    "id": 74,
+    "soz": "Fincancı katırlarını ürkütmek",
+    "anlami": "Zararı dokunabilecek bir kimsenin hoşuna gitmeyen bir davranışta bulunmak ."
+  },
+  {
+    "id": 75,
+    "soz": "Forsunu yitirmek",
+    "anlami": "Etkinliğini ve saygınlığını kaybetmek."
+  },
+  {
+    "id": 76,
+    "soz": "Fos çıkmak",
+    "anlami": "Bir işin sonu gelmemek, boş çıkmak"
+  },
+  {
+    "id": 77,
+    "soz": "Foyası meydana çıkmak",
+    "anlami": "Bir olay dolayısıyla bir kimsenin kötü niteliği ortaya çıkmak. - DEYİMLER - 69"
+  },
+  {
+    "id": 78,
+    "soz": "Gafil avlamak",
+    "anlami": "Umulmadık , beklenmedik bir zamanda yakalamak, zor duruma düşürmek ."
+  },
+  {
+    "id": 79,
+    "soz": "Gam çekmek",
+    "anlami": "Tasalanmak , kaygılanmak, üzülmek."
+  },
+  {
+    "id": 80,
+    "soz": "Gam yememek",
+    "anlami": "Tasa etmemek, kaygılanmamak, üzülmemek."
+  },
+  {
+    "id": 81,
+    "soz": "Gazel okumak",
+    "anlami": "Oyalamak veya kandırmak üzere boş sözler söylemek ."
+  },
+  {
+    "id": 82,
+    "soz": "Geceyi gündüze katmak",
+    "anlami": "Aralıksız , gece gündüz çalışmak, büyük çaba göstermek."
+  },
+  {
+    "id": 83,
+    "soz": "Gemi azıya almak",
+    "anlami": "Söz dinlemez olmak. 84-Gemi sini yürütmek : Bir işi hiçbir engel tanımadan sürdürmek."
+  },
+  {
+    "id": 85,
+    "soz": "Gık dememek",
+    "anlami": "Sesini çıkarmamak, karşı çıkmamak yakınmamak."
+  },
+  {
+    "id": 86,
+    "soz": "Gına gelmek",
+    "anlami": "Usanmak , bıkmak."
+  },
+  {
+    "id": 87,
+    "soz": "Gırgıra almak",
+    "anlami": "Biriyle alay etmek."
+  },
+  {
+    "id": 88,
+    "soz": "Göbeği çatlamak",
+    "anlami": "Birçok güçlükleri yenmek için çok uğraşmak."
+  },
+  {
+    "id": 89,
+    "soz": "Göğsü kabarmak",
+    "anlami": "Övünç duymak, kıvanmak, iftihar etmek. - DEYİMLER - 70"
+  },
+  {
+    "id": 90,
+    "soz": "Göğüs geçirmek",
+    "anlami": "Üzülerek erinden soluk almak."
+  },
+  {
+    "id": 91,
+    "soz": "Gökten zembille mi indi? Neden başkalarına tanınmayan haklar ona tanınıyor. 92-Göklere çıkarmak",
+    "anlami": "Aşırı ölçüde övmek."
+  },
+  {
+    "id": 93,
+    "soz": "Gölge düşürmek",
+    "anlami": "Bir şeyin değerini veya ününü azaltacak işler yapmak."
+  },
+  {
+    "id": 94,
+    "soz": "Gönül almak",
+    "anlami": "Kırılan bir kimseyi güzel bir davranışla hoşnut etmek."
+  },
+  {
+    "id": 95,
+    "soz": "Göz boyamak",
+    "anlami": "Kandırmak , yanıltmak, gösterişle aldatmak."
+  },
+  {
+    "id": 96,
+    "soz": "Gözlerini fal taşı gibi açmak",
+    "anlami": "Şaşkınlıkla, hayretle bakmak. 97-Göz nuru dökmek : Fazla emek sarf etmek."
+  },
+  {
+    "id": 98,
+    "soz": "Gözü açılmak",
+    "anlami": "İyiyi kötüyü veya kendisine yarayanı ayırt eder duruma gelmek ."
+  },
+  {
+    "id": 99,
+    "soz": "Gözünü daldan budaktan sakınmamak",
+    "anlami": "Tehlikeli işlere atılmaktan çekinmemek."
+  },
+  {
+    "id": 100,
+    "soz": "Gözünü dört açmak",
+    "anlami": "Aldanmamak için çok uyanık bulunmak ."
+  },
+  {
+    "id": 101,
+    "soz": "Halep oradaysa arşın burada",
+    "anlami": "Gereken koşullar hazır,hadi yap görelim. - DEYİMLER - 71"
+  },
+  {
+    "id": 102,
+    "soz": "Hacet kalmamak",
+    "anlami": "Gereği olmamak."
+  },
+  {
+    "id": 103,
+    "soz": "Hâlden anlamak",
+    "anlami": "Bir kimsenin içinde bulunduğu güç durumu anlayarak sezip anlayış göstermek."
+  },
+  {
+    "id": 104,
+    "soz": "Hangi dağda kurt öldü? Nasıl oldu da böyle umulmadık güzel bir davranışta bulundun? 105-Hâli kalmamak",
+    "anlami": "Gücü , takati, eski durumu olmamak."
+  },
+  {
+    "id": 106,
+    "soz": "Hallaç pamuğu gibi atmak",
+    "anlami": "Toplu durumda bulunan kişi veya nesneleri darmadağın etmek."
+  },
+  {
+    "id": 107,
+    "soz": "Hapı yutmak",
+    "anlami": "Kötü bir duruma düşmek."
+  },
+  {
+    "id": 108,
+    "soz": "Havanda su dövmek",
+    "anlami": "Boşuna uğraşmak.109-Havsalası almamak : Aklı kabul etmemek."
+  },
+  {
+    "id": 110,
+    "soz": "Her boyaya girip çıkmak",
+    "anlami": "Çeşitli işlerde kısa süre de olsa çalışmış olmak."
+  },
+  {
+    "id": 111,
+    "soz": "Her kafadan bir ses çıkmak",
+    "anlami": "Bir konu üzerinde herkes rastgele konuşmak."
+  },
+  {
+    "id": 112,
+    "soz": "Her telden çalmak",
+    "anlami": "Birçok konuda bilgisi olmak."
+  },
+  {
+    "id": 113,
+    "soz": "Hevesi kalmamak",
+    "anlami": "Şevki kırılmak, isteği kalmamak."
+  },
+  {
+    "id": 114,
+    "soz": "Hevesi kursağında kalmak",
+    "anlami": "İstediği , imrendiği şeyi elde edememek. - DEYİMLER - 72"
+  },
+  {
+    "id": 115,
+    "soz": "Hevesini almak",
+    "anlami": "İstediği , imrendiği şeyi elde ederek ona doymak."
+  },
+  {
+    "id": 116,
+    "soz": "Heyheyleri tutmak",
+    "anlami": "Çok sinirlenmek."
+  },
+  {
+    "id": 117,
+    "soz": "Huyuna suyuna gitmek",
+    "anlami": "Birini kızdırmayacak veya ürkütmeyecek biçimde uysalca davranmak, alışkanlıklarına, isteklerine uygun davranışlarda bulunmak ."
+  },
+  {
+    "id": 118,
+    "soz": "Huyunu suyunu değiştirmek",
+    "anlami": "Eskisine göre değişik davranmasına sebep olmak."
+  },
+  {
+    "id": 119,
+    "soz": "Hüsrana uğramak",
+    "anlami": "Beklenilen sonucun elde edilememesi sebebiyle çok üzülmek, acı çekmek .120-Icığını cıcığını çıkarmak : İncelenmemiş , elden geçirilmemiş hiçbir yerini bırakmamak, en küçük ayrıntısına kadar incelemek, didik didik etmek."
+  },
+  {
+    "id": 121,
+    "soz": "Isıtıp ısıtıp önüne koymak",
+    "anlami": "Daha önce geçmiş bir olayı, bir işi, ileri sürülmüş bir düşünceyi sık sık tekrarlamak ."
+  },
+  {
+    "id": 122,
+    "soz": "Iskartaya çıkarmak",
+    "anlami": "Değersiz bularak bir yana atmak, işe yaramadığı için ayırıp bir yana koymak ."
+  },
+  {
+    "id": 123,
+    "soz": "Işık almak",
+    "anlami": "Güneş ışığından yararlanır durumda olmak. - DEYİMLER - 73"
+  },
+  {
+    "id": 124,
+    "soz": "İbret almak",
+    "anlami": "Bir olaydan deneyim kazanmak, ibret almak."
+  },
+  {
+    "id": 125,
+    "soz": "İçaçmak",
+    "anlami": "Gönle ferahlık vermek, gönlü ferahlatmak."
+  },
+  {
+    "id": 126,
+    "soz": "İççekmek",
+    "anlami": "Üzüntüyle derinden soluk almak ."
+  },
+  {
+    "id": 127,
+    "soz": "İçine kurt düşmek",
+    "anlami": "Kendisine zararı dokunacak bir durum meydana geleceğinden kuşkulanmak."
+  },
+  {
+    "id": 128,
+    "soz": "İçi açılmak",
+    "anlami": "Güzel bir şey karşısında sıkıntısı dağılmak, ferahlamak."
+  },
+  {
+    "id": 129,
+    "soz": "İçi bayılmak",
+    "anlami": "Çok acıkmak.130-İçi cız etmek : Ansızın içi sızlamak."
+  },
+  {
+    "id": 131,
+    "soz": "İçi daralmak",
+    "anlami": "Sıkılmak , bunalmak."
+  },
+  {
+    "id": 132,
+    "soz": "İçi dayanmamak",
+    "anlami": "Düşündüğünü Acıklı bir durumu kaldıramamak."
+  },
+  {
+    "id": 133,
+    "soz": "İçi dışına çıkmak",
+    "anlami": "Kusacak duruma gelmek."
+  },
+  {
+    "id": 134,
+    "soz": "İçi erimek",
+    "anlami": "Kaygı duymak, çok üzülmek."
+  },
+  {
+    "id": 135,
+    "soz": "İçi gitmek",
+    "anlami": "Bir şeyi yapmayı veya elde etmeyi çok istemek."
+  },
+  {
+    "id": 136,
+    "soz": "İçi içine sığmamak",
+    "anlami": "Telaş , sabırsızlık, coşkunluk göstermekten kendini alamamak. - DEYİMLER - 74"
+  },
+  {
+    "id": 137,
+    "soz": "İçi kan ağlamak",
+    "anlami": "Çok üzüntü duymak."
+  },
+  {
+    "id": 138,
+    "soz": "İçi kazınmak",
+    "anlami": "Açlıktan midesinde eziklik duymak"
+  },
+  {
+    "id": 139,
+    "soz": "İçi parçalanmak",
+    "anlami": "Birine acıyarak çok üzülmek."
+  },
+  {
+    "id": 140,
+    "soz": "İçi rahat etmek",
+    "anlami": "Kaygı duyulacak bir konu bulunmadığını öğrenerek ferahlamak."
+  },
+  {
+    "id": 141,
+    "soz": "İçi sızlamak",
+    "anlami": "Çok üzülmek."
+  },
+  {
+    "id": 142,
+    "soz": "İçi yanmak",
+    "anlami": "Büyük bir acı, sıkıntı vbnedenlerle çok üzülmek"
+  },
+  {
+    "id": 143,
+    "soz": "İçinden geçirmek",
+    "anlami": "Bir şeyi yapmayı düşünmek.144-İçinden gelmek : Bir şeyi yapmak için içten bir istek duymak."
+  },
+  {
+    "id": 145,
+    "soz": "İçine atmak",
+    "anlami": "Sıkıntısını kimseye belli etmemek."
+  },
+  {
+    "id": 146,
+    "soz": "İçine daralma gelmek",
+    "anlami": "Sıkıntı basmak, sıkılmak."
+  },
+  {
+    "id": 147,
+    "soz": "İçine doğmak",
+    "anlami": "Bir işin olacağını veya olduğunu hiçbir belirtiye dayanmadan önceden sezinlemek, malum olmak."
+  },
+  {
+    "id": 148,
+    "soz": "İçtikleri su ayrı gitmemek",
+    "anlami": "Çok iyi arkadaş olmak."
+  },
+  {
+    "id": 149,
+    "soz": "İçine kapanmak",
+    "anlami": "Çevresindeki kişilerle ilgi kurmamak, duygularını kimseye açmamak . - DEYİMLER - 75"
+  },
+  {
+    "id": 150,
+    "soz": "İçine kurt düşmek",
+    "anlami": "Kendisine zararı dokunacak bir durum meydana geleceğinden kuşkulanmak."
+  },
+  {
+    "id": 151,
+    "soz": "İçine sinmek",
+    "anlami": "İsteğince olduğu için huzur ve mutluluk duymak."
+  },
+  {
+    "id": 152,
+    "soz": "İçini ısıtmak",
+    "anlami": "Hoş, tatlı ve huzur verici duygular uyandırmak, coşku vermek."
+  },
+  {
+    "id": 153,
+    "soz": "İçini karartmak",
+    "anlami": "Bunalıma veya sıkıntıya sokmak, endişeye düşürmek."
+  },
+  {
+    "id": 154,
+    "soz": "İçini kemirmek",
+    "anlami": "Bir üzüntüden rahatsızlık duymak, tedirgin olmak."
+  },
+  {
+    "id": 155,
+    "soz": "İçini okumak",
+    "anlami": "Birinin gizli, saklı düşüncelerini anlamak.156-İğne deliğinden Hindistan’ı seyretmek: Küçük bir olaydan büyük gerçeklere ulaşacak kadar keskin bir kavrayışı bulunmak."
+  },
+  {
+    "id": 157,
+    "soz": "İğne ile kuyu kazmak",
+    "anlami": "Yetersiz araçlarla, sürekli ve sabırlı bir biçimde çalışıp çok güç olan veya çok ağır yürüyen bir işi başarmaya çalışmak."
+  },
+  {
+    "id": 158,
+    "soz": "İğne ipliğe dönmek",
+    "anlami": "Çok zayıflamak."
+  },
+  {
+    "id": 159,
+    "soz": "İki arada bir derede kalmak",
+    "anlami": "Sıkışık , zor şartlar altında kalmak."
+  },
+  {
+    "id": 160,
+    "soz": "İki ayağını bir pabuca sokmak",
+    "anlami": "Birini bir işi hemen yapması için çok sıkıştırmak. - DEYİMLER - 76"
+  },
+  {
+    "id": 161,
+    "soz": "İki ateş arasında kalmak",
+    "anlami": "Zor bir durumda karar verememek."
+  },
+  {
+    "id": 162,
+    "soz": "İki gözü iki çeşme ağlamak",
+    "anlami": "Sürekli ve çok ağlamak."
+  },
+  {
+    "id": 163,
+    "soz": "İki karpuzu bir koltuğa sığdırmak",
+    "anlami": "Aynı anda iki işi veya görevi yapmak"
+  },
+  {
+    "id": 164,
+    "soz": "İki yakası bir araya gelmemek Geçim sıkıntısından bir türlü kurtulamamak, borçtan kurtulamamak. 165-İnce eleyip sık dokumak",
+    "anlami": "Bir şeyi bütün ayrıntılarıyla araştırmak, gözden veya elden geçirmek."
+  },
+  {
+    "id": 166,
+    "soz": "İn cin top oynamak",
+    "anlami": "Hiçbir canlı varlık bulunmamak.167-İncir çekirdeğini doldurmamak : Çok az veya çok önemsiz olmak."
+  },
+  {
+    "id": 168,
+    "soz": "İpe sapa gelmemek",
+    "anlami": "Akla yakın olmamak veya birbirini tutmamak."
+  },
+  {
+    "id": 169,
+    "soz": "İpe un sermek",
+    "anlami": "Geçersiz birtakım nedenler ileri sürerek istenilen işi yapmaktan kaçınmak."
+  },
+  {
+    "id": 170,
+    "soz": "İpliği pazara çıkmak",
+    "anlami": "Bir kimsenin kötü niteliğinin zamanla ya da bir olay sonrasında anlaşılması."
+  },
+  {
+    "id": 171,
+    "soz": "İpi koparmak",
+    "anlami": "Bağlı bulunduğu kuruluşla veya yakınlığı bulunan kişi ile ilişkisini kesmek . - DEYİMLER - 77"
+  },
+  {
+    "id": 172,
+    "soz": "İpin ucunu kaçırmak",
+    "anlami": "Yönetimde veya bir şeyi kullanmada gereken ölçüyü yitirmek."
+  },
+  {
+    "id": 173,
+    "soz": "İple çekmek",
+    "anlami": "Birini ölçülü davranmaya zorlamak."
+  },
+  {
+    "id": 174,
+    "soz": "İstifini bozmamak",
+    "anlami": "Aldırış etmeyip durum ve davranışını değiştirmemek."
+  },
+  {
+    "id": 175,
+    "soz": "İşi Allah’a kalmak Kimsenin kendisine yardım etmediği bir durumda, çaresiz kalmak. 176-İş başa düşmek",
+    "anlami": "Kendi işini kendi görmek zorunda kalmak."
+  },
+  {
+    "id": 177,
+    "soz": "İş çığırından çıkmak",
+    "anlami": "Bir iş amacından saparak düzeltilmesi güç bir durum almak178-İş sarpa sarmak : İş, içinden çıkılması zor bir duruma gelmek."
+  },
+  {
+    "id": 179,
+    "soz": "İşi aksi gitmek",
+    "anlami": "İstenilen sonucu elde edememek."
+  },
+  {
+    "id": 180,
+    "soz": "İşkembeden atmak",
+    "anlami": "Uydurarak söylemek."
+  },
+  {
+    "id": 181,
+    "soz": "İz bırakmak",
+    "anlami": "Etkisini kalıcı bir duruma getirmek"
+  },
+  {
+    "id": 182,
+    "soz": "İzinden yürümek",
+    "anlami": "Birine içten bağlanarak onun başladığı işi aynı anlayışla sürdürmek."
+  },
+  {
+    "id": 183,
+    "soz": "Jetonu geç düşmek",
+    "anlami": "Konuşulan veya sözü edilen konuyu geç anlamak, geç intikal etmek. - DEYİMLER - 78"
+  },
+  {
+    "id": 184,
+    "soz": "Kabak başına patlamak",
+    "anlami": "Birçok kimsenin ilgili olduğu olaydan, yalnızca bir kimse zarar veya ceza görmek."
+  },
+  {
+    "id": 185,
+    "soz": "Kabak tadı vermek",
+    "anlami": "Aşırı tekrarlanması, sürdürülmesi yüzünden bir şeyden doygunluk, yorgunluk veya bıkkınlık duyarak onu istemez duruma gelmek ."
+  },
+  {
+    "id": 186,
+    "soz": "Kabına sığmamak",
+    "anlami": "Duygularına engel olamayıp taşkın davranışlarda bulunmak."
+  },
+  {
+    "id": 187,
+    "soz": "Kabir azabı çekmek",
+    "anlami": "Çok sıkılmak, üzülmek."
+  },
+  {
+    "id": 188,
+    "soz": "Kabuğuna çekilmek",
+    "anlami": "Dışarısı ile olan ilişkilerini kesmek, kimse ile görüşmemek.189-Kafa patlatmak : Bir konu üzerinde pek çok düşünmek."
+  },
+  {
+    "id": 190,
+    "soz": "Kafa sallamak",
+    "anlami": "İkaz etmek için başını iki yana veya öne arkaya hafifçe eğmek."
+  },
+  {
+    "id": 191,
+    "soz": "Kaf ası kazan gibi olmak Gürültülü şeyler dinlemekten rahatsız olmak. 192-Kafası bozulmak",
+    "anlami": "Öfkelenmek , kızmak."
+  },
+  {
+    "id": 193,
+    "soz": "Kafasına dank etmek",
+    "anlami": "Bir olay sebebiyle birden ayılmak, doğruyu anlamak. - DEYİMLER - 79"
+  },
+  {
+    "id": 194,
+    "soz": "Kafasına koymak",
+    "anlami": "Kararını önceden vermiş olmak, önceden şartlanmak, bir şey yapmaya kesin karar vererek zamanını beklemek."
+  },
+  {
+    "id": 195,
+    "soz": "Kâğıt üzerinde kalmak",
+    "anlami": "Yapılması düşünülmüş olduğu hâlde yapılmamak ."
+  },
+  {
+    "id": 196,
+    "soz": "Kalburla su taşımak",
+    "anlami": "Verimsiz , sonuçsuz bir işle uğraşmak."
+  },
+  {
+    "id": 197,
+    "soz": "Kale almamak",
+    "anlami": "Önem vermemek, hesaba katmamak, sözünü etmeye değer bulmamak."
+  },
+  {
+    "id": 198,
+    "soz": "Kaleyi içinden fethetmek",
+    "anlami": "Davasını karşı taraftan birinin yardımıyla kazanmak.199-Kalıbını basmak : Bir şeyi güvenle doğrulamak ."
+  },
+  {
+    "id": 200,
+    "soz": "Kalıbının adamı olmamak",
+    "anlami": "Görünüşünden beklendiği gibi olmamak."
+  },
+  {
+    "id": 201,
+    "soz": "Kalıptan kalıba girmek",
+    "anlami": "Çıkar sağlamak için her duruma uymak."
+  },
+  {
+    "id": 202,
+    "soz": "Kanadı altına almak",
+    "anlami": "Korumak , himayesine almak."
+  },
+  {
+    "id": 203,
+    "soz": "Kanat germek",
+    "anlami": "Koruması altına almak, himaye etmek."
+  },
+  {
+    "id": 204,
+    "soz": "Kan beynine sıçramak",
+    "anlami": "Çok sinirlenmek, hiddetlenmek, kontrolü yitirmek. - DEYİMLER - 80"
+  },
+  {
+    "id": 205,
+    "soz": "Kancayı takmak",
+    "anlami": "Bir kimsenin kötülüğü için uğraşmak."
+  },
+  {
+    "id": 206,
+    "soz": "Kan ter içinde kalmak",
+    "anlami": "Çok terli, yorgun ve perişan bir durumda olmak."
+  },
+  {
+    "id": 207,
+    "soz": "Kapağı atmak",
+    "anlami": "Sıkıntısız , rahat bir yere sığınmak, kaçıp kurtulmak."
+  },
+  {
+    "id": 208,
+    "soz": "Kapı aralamak",
+    "anlami": "Bir konuya giriş yapmak, karşısındakini hazırlamak."
+  },
+  {
+    "id": 209,
+    "soz": "Kapıda kalmak",
+    "anlami": "İçeri girememek."
+  },
+  {
+    "id": 210,
+    "soz": "Kapıları kapamak",
+    "anlami": "Bütün ilişkileri kesmek veya anlaşma ortamını ortadan kaldırmak.211-Kapısını aşındırmak : Yanına çok sık gitmek."
+  },
+  {
+    "id": 212,
+    "soz": "Kapıyı göstermek",
+    "anlami": "Kovmak , uzaklaştırmak."
+  },
+  {
+    "id": 213,
+    "soz": "Kara çalmak",
+    "anlami": "Birine iftira etmek, kara sürmek."
+  },
+  {
+    "id": 214,
+    "soz": "Karda gezip izini belli etmemek",
+    "anlami": "Kimsenin sezemeyeceği biçimde gizli iş çevirmek."
+  },
+  {
+    "id": 215,
+    "soz": "Kargadan başka kuş tanımamak",
+    "anlami": "Bildiğinden veya öğrendiğinden kesinlikle şaşmamak."
+  },
+  {
+    "id": 216,
+    "soz": "Karıncayı bile ezmemek",
+    "anlami": "Çok merhametli, ince duygulu olmak. - DEYİMLER - 81"
+  },
+  {
+    "id": 217,
+    "soz": "Karnı zil çalmak",
+    "anlami": "Çok acıkmış olmak."
+  },
+  {
+    "id": 218,
+    "soz": "Kaş göz işareti yapmak",
+    "anlami": "Kaş ve gözle bir şeyler anlatmak, dikkat çekmek."
+  },
+  {
+    "id": 219,
+    "soz": "Kaşık çalmak",
+    "anlami": "İştahla veya çabuk yemek."
+  },
+  {
+    "id": 220,
+    "soz": "Kaşıkla verip kepçeyle geri almak",
+    "anlami": "Yaptığı bir iyiliğin acısını çıkarırcasına davranmak."
+  },
+  {
+    "id": 221,
+    "soz": "Kaşıkla yedirip, sapıyla göz çıkarmak",
+    "anlami": "Yaptığı bir iyiliği hiçe indirecek kötülükte bulunmak."
+  },
+  {
+    "id": 222,
+    "soz": "Kaşlarını çatmak",
+    "anlami": "Kızmak , öfkelenmek.223-Kaş yapayım derken göz çıkarmak : İşi düzelteyim derken büsbütün bozmak."
+  },
+  {
+    "id": 224,
+    "soz": "Keli görünmek",
+    "anlami": "Kusuru ortaya çıkmak."
+  },
+  {
+    "id": 225,
+    "soz": "Kelleyi koltuğuna almak",
+    "anlami": "Ölümü göze almak."
+  },
+  {
+    "id": 226,
+    "soz": "Kelleyi vermek",
+    "anlami": "Canını feda etmek."
+  },
+  {
+    "id": 227,
+    "soz": "Kemer sıkmak",
+    "anlami": "Sıkı para politikası anlayışıyla daha az tüketmek."
+  },
+  {
+    "id": 228,
+    "soz": "Kök söktürmek",
+    "anlami": "Uğraştırmak , güçlük çıkarmak. - DEYİMLER - 82"
+  },
+  {
+    "id": 229,
+    "soz": "Kökünden halletmek",
+    "anlami": "Herhangi bir konuyu veya sorunu temelden çözümlemek."
+  },
+  {
+    "id": 230,
+    "soz": "Kökünü kazmak",
+    "anlami": "Bir daha üreyemez duruma getirmek, hiçbir kalıntısını bırakmamak, yok etmek."
+  },
+  {
+    "id": 231,
+    "soz": "Kraldan çok kralcı olmak",
+    "anlami": "Birinin davasını ondan daha çok savunur olmak."
+  },
+  {
+    "id": 232,
+    "soz": "Kulağı ters taraftan göstermek",
+    "anlami": "Kolay yolu varken bir işi daha zor ve uzun yollar kullanarak yapmak."
+  },
+  {
+    "id": 233,
+    "soz": "Kulağına girmemek",
+    "anlami": "Söylenilen sözlere önem vermemek, söylenenleri anlamamak, benimsememek.234-Kulağına kar suyu kaçmak : Bir duyum almak."
+  },
+  {
+    "id": 235,
+    "soz": "Kulak kesilmek",
+    "anlami": "Büyük bir dikkatle dinlemek."
+  },
+  {
+    "id": 236,
+    "soz": "Kulp takmak",
+    "anlami": "Bir kimseyi, bir şeyi kusurlu göstermek için bahane, kusur bulmak."
+  },
+  {
+    "id": 237,
+    "soz": "Kuş gibi çırpınmak",
+    "anlami": "Çaresizlik içinde telaşlı davranmak."
+  },
+  {
+    "id": 238,
+    "soz": "Kuş uçurmamak",
+    "anlami": "Hiçbir şeyin veya kimsenin kaçmasına, geçmesine imkân vermemek."
+  },
+  {
+    "id": 239,
+    "soz": "Külahını ters giydirmek",
+    "anlami": "Çok kurnaz olmak. - DEYİMLER - 83"
+  },
+  {
+    "id": 240,
+    "soz": "Külahları değişmek",
+    "anlami": "Tehdit ederek bozuşmak ."
+  },
+  {
+    "id": 241,
+    "soz": "Küpünü doldurmak",
+    "anlami": "Eline fırsat geçmişken çokça para biriktirmek."
+  },
+  {
+    "id": 242,
+    "soz": "Kürek kadar dili olmak",
+    "anlami": "Kabaca ve terbiyesizce karşılık vermek."
+  },
+  {
+    "id": 243,
+    "soz": "Laf altında kalmamak",
+    "anlami": "Kendisini inciten, itham eden veya rahatsız bir duruma düşüren söze gereken karşılığı verip durumu düzeltmek."
+  },
+  {
+    "id": 244,
+    "soz": "Laf işitmek",
+    "anlami": "Azarlanmak , birisi kendisine darılmak245-Lafa karışmak : Biri veya birileri konuşurken bir başkası konuşmak, konuşmaya katılmak."
+  },
+  {
+    "id": 246,
+    "soz": "Lafa tutmak",
+    "anlami": "Yersiz , zamansız ve sürekli konuşarak meşgul etmek, oyalamak."
+  },
+  {
+    "id": 247,
+    "soz": "Lokmasını saymak",
+    "anlami": "Sofrada yemek yiyen bir kimsenin ne kadar yediğine dikkat etmek."
+  },
+  {
+    "id": 248,
+    "soz": "Lügat paralamak",
+    "anlami": "Konuşma dilinde geçmeyen yabancı kelimeler kullanmak, ağdalı konuşmak."
+  },
+  {
+    "id": 249,
+    "soz": "Mahalleyi ayağa kaldırmak",
+    "anlami": "Bağırıp çağırarak konu komşuyu tedirgin etmek. - DEYİMLER - 84"
+  },
+  {
+    "id": 250,
+    "soz": "Mantar gibi yerden bitmek",
+    "anlami": "Birdenbire veya kendiliğinden ortaya çıkmak."
+  },
+  {
+    "id": 251,
+    "soz": "Masal okumak",
+    "anlami": "İnandırıcı olmayan, oyalayıcı sözlerle kandırmaya çalışmak."
+  },
+  {
+    "id": 252,
+    "soz": "Masrafa girmek",
+    "anlami": "Bir iş veya yapım için çok para harcamak."
+  },
+  {
+    "id": 253,
+    "soz": "Mekik dokumak",
+    "anlami": "İki nokta veya durum arasında sürekli gidip gelmek."
+  },
+  {
+    "id": 254,
+    "soz": "Meteliğe kurşun atmak",
+    "anlami": "Parası kalmamak, hiç parası olmamak."
+  },
+  {
+    "id": 255,
+    "soz": "Metelik vermemek",
+    "anlami": "Değer ve önem vermemek, umursamamak, aldırış etmemek.256-Meydan okumak : Korkmadığını , çekinmediğini açıkça bildirmek, kavga veya yarışmaya çağırmak."
+  },
+  {
+    "id": 257,
+    "soz": "Meydana çıkarmak",
+    "anlami": "Açıklığa kavuşturmak, ortaya çıkarmak, belli etmek."
+  },
+  {
+    "id": 258,
+    "soz": "Meydana getirmek",
+    "anlami": "Olmasını sağlamak, oluşturmak."
+  },
+  {
+    "id": 259,
+    "soz": "Meydanı boş bulmak",
+    "anlami": "Kendisini engelleyecek kimse görmeyerek aşırı davranışlarda bulunmak."
+  },
+  {
+    "id": 260,
+    "soz": "Mum tutturmak",
+    "anlami": "Aşırı disiplin altına almak."
+  },
+  {
+    "id": 261,
+    "soz": "Mumla aramak",
+    "anlami": "Çok isteyerek ve özlemle aramak. - DEYİMLER - 85"
+  },
+  {
+    "id": 262,
+    "soz": "Muradına ermek",
+    "anlami": "İsteğine kavuşmak, dileği gerçekleşmek, arzusu yerine gelmek"
+  },
+  {
+    "id": 263,
+    "soz": "Mürekkep yalamak",
+    "anlami": "Çok okumuş, yazmış olmak"
+  },
+  {
+    "id": 264,
+    "soz": "Nabzına göre şerbet vermek",
+    "anlami": "Birinin hoşuna gidecek, gururunu okşayacak yolda davranmak."
+  },
+  {
+    "id": 265,
+    "soz": "Nabzını tutmak",
+    "anlami": "Düşüncesini , niyetini, eğilimini anlamaya çalışmak."
+  },
+  {
+    "id": 266,
+    "soz": "Nabzını yoklamak",
+    "anlami": "Niyetini , düşüncesini, eğilimini anlamaya çalışmak."
+  },
+  {
+    "id": 267,
+    "soz": "Nalıncı keseri gibi kendine yontmak",
+    "anlami": "Yaptığı işlerde hep kendi çıkarını düşünmek.268-Nefes aldırmamak : Dinlenmesine fırsat vermemek, aralık vermemek."
+  },
+  {
+    "id": 269,
+    "soz": "Nefes tüketmek",
+    "anlami": "Uzun uzun ve boş konuşmak."
+  },
+  {
+    "id": 270,
+    "soz": "Nefesini tutup beklemek",
+    "anlami": "Heyecan , merak veya endişeyle sonucu izlemek."
+  },
+  {
+    "id": 271,
+    "soz": "Ne oldum delisi olmak",
+    "anlami": "Ummadığı bir duruma beklemediği bir anda ulaşan kimse çok şımarmak."
+  },
+  {
+    "id": 272,
+    "soz": "Not tutmak",
+    "anlami": "Biri söz söylerken başkası onun söylediklerini yazmak. - DEYİMLER - 86"
+  },
+  {
+    "id": 273,
+    "soz": "Notunu vermek Bir kimse için kötü bir kanıya varmak 274-Ocağı batmak Yuvası yıkılmak veya soyu tükenmek 275-Ocağına düşmek Birine koruması için sığınmak veya yardım etmesi için yalvarmak 276-Ocağına incir dikmek Birinin evini barkını dağıtmak 277-Ok yaydan çıkmak Geri dönülemeyecek bir iş yapmak 278-Olmayacak duaya amin demek Gerçekleşmeyecek , sonuç vermeyecek işlerle uğraşmak279-On paraya on takla atmak",
+    "anlami": "Az miktar para kazanmak için onursuzca bir sürü şey yapmak."
+  },
+  {
+    "id": 280,
+    "soz": "On parmağında on marifet olmak",
+    "anlami": "Elinden her iş gelmek, çok becerikli olmak."
+  },
+  {
+    "id": 281,
+    "soz": "O tarakta bezi olmamak",
+    "anlami": "O şeyle ilgisi olmamak."
+  },
+  {
+    "id": 282,
+    "soz": "Oyuna gelmek",
+    "anlami": "Aldatılmak."
+  },
+  {
+    "id": 283,
+    "soz": "Oyunun kurallarını bilmek",
+    "anlami": "Yapılan işlerin nasıl, kimler tarafından ve hangi ilişkilerle sonuçlandırıldığına ilişkin bilgisi olmak. - DEYİMLER - 87"
+  },
+  {
+    "id": 284,
+    "soz": "Ölçüyü kaçırmak",
+    "anlami": "Yiyip içmekte veya davranışlarda aşırı gitmek."
+  },
+  {
+    "id": 285,
+    "soz": "Ölümü göze almak",
+    "anlami": "Elde etmek istediği sonuç uğruna ölüm de dâhil her türlü tehlikeye açık olmak."
+  },
+  {
+    "id": 286,
+    "soz": "Ömür çürütmek",
+    "anlami": "Uzun zaman emek vermiş olmak veya boşuna vakit geçirmiş olmak."
+  },
+  {
+    "id": 287,
+    "soz": "Ömrü vefa etmemek",
+    "anlami": "Bir sonuca ulaşmadan ölmek."
+  },
+  {
+    "id": 288,
+    "soz": "Ömrüne ömür katmak",
+    "anlami": "Sevinmesine , mutlu olmasına sebep olmak."
+  },
+  {
+    "id": 289,
+    "soz": "Öpüp başına koymak",
+    "anlami": "Bir nimeti veya kutsal sayılan bir varlığı saygıyla el üstünde tutmak, yüksekte tutmak.290-Pabucunu ters giydirmek : Güç bir duruma sokarak telaş içinde kaçırmak."
+  },
+  {
+    "id": 291,
+    "soz": "Pabucu dama atılmak",
+    "anlami": "Kendinden üstün birinin çıkmasıyla gözden düşmek."
+  },
+  {
+    "id": 292,
+    "soz": "Pabuç kadar dili olmak",
+    "anlami": "Kabaca ve terbiyesizce karşılık vermek."
+  },
+  {
+    "id": 293,
+    "soz": "Paçayı kurtarmak",
+    "anlami": "Kendini bir dertten, tehlikeden veya zor durumdan kurtarmak."
+  },
+  {
+    "id": 294,
+    "soz": "Paha biçmek",
+    "anlami": "Değerini tahmin etmek veya belirlemek ."
+  },
+  {
+    "id": 295,
+    "soz": "Pahalıya mal olmak",
+    "anlami": "Çok para, özveri, emek gerektirmek. - DEYİMLER - 88"
+  },
+  {
+    "id": 296,
+    "soz": "Paniğe kapılmak",
+    "anlami": "Çok korkmak."
+  },
+  {
+    "id": 297,
+    "soz": "Palavra atmak",
+    "anlami": "Abartarak konuşmak, büyük başarılardan söz etmek."
+  },
+  {
+    "id": 298,
+    "soz": "Para saçmak",
+    "anlami": "Gereğinden çok para harcamak."
+  },
+  {
+    "id": 299,
+    "soz": "Parasını sokağa atmak",
+    "anlami": "Değeri olmayan bir mala para vermek."
+  },
+  {
+    "id": 300,
+    "soz": "Parasıyla rezil olmak",
+    "anlami": "Para vererek yaptırdığı bir şey iyi çıkmamak, parasının karşılığını alamamak."
+  },
+  {
+    "id": 301,
+    "soz": "Paraya kıymak",
+    "anlami": "Gereken yerde para harcamaktan kaçınmamak.302-Paraya para dememek : Çok para kazanır olmak."
+  },
+  {
+    "id": 303,
+    "soz": "Parmağı ağzında kalmak",
+    "anlami": "Çok şaşırmak hayrete düşmek."
+  },
+  {
+    "id": 304,
+    "soz": "Parmağında oynatmak",
+    "anlami": "Birine her istediğini yaptırmak, onu kukla gibi kullanmak."
+  },
+  {
+    "id": 305,
+    "soz": "Parmağını bile kıpırdatmamak",
+    "anlami": "Bir iş için hiçbir davranışta bulunmamak."
+  },
+  {
+    "id": 306,
+    "soz": "Parmak kaldırmak",
+    "anlami": "Bir toplulukta söz istemek için işaret parmağını açık bırakarak kapalı eli yukarı kaldırmak."
+  },
+  {
+    "id": 307,
+    "soz": "Parmak ısırmak",
+    "anlami": "Büyük şaşkınlık duymak. - DEYİMLER - 89"
+  },
+  {
+    "id": 308,
+    "soz": "Parmakla gösterilmek",
+    "anlami": "Seçkin ünlü olmak."
+  },
+  {
+    "id": 309,
+    "soz": "Papara yemek",
+    "anlami": "Azar işitmek."
+  },
+  {
+    "id": 310,
+    "soz": "Patırtıya pabuç bırakmamak",
+    "anlami": "Önemli bir tehlike yaratmayacağını bildiği kışkırtmalara, yıldırmalara aldırmayıp bildiğini yapmak."
+  },
+  {
+    "id": 311,
+    "soz": "Parsayı başkası toplamak",
+    "anlami": "Bir emeğin karşılığını o emeği çeken değil, başka biri almak."
+  },
+  {
+    "id": 312,
+    "soz": "Pılı pırtıyı toplamak",
+    "anlami": "Gitmek üzere bütün eşyalarını toplamak."
+  },
+  {
+    "id": 313,
+    "soz": "Pire için yorgan yakmak",
+    "anlami": "Önemsiz bir durum karşısında kızarak kendisine daha büyük zarar verecek davranışta bulunmak.314-Pireyi deve yapmak : Önemsiz bir olayı büyütmek."
+  },
+  {
+    "id": 315,
+    "soz": "Post elden gitmek",
+    "anlami": "Bulunduğu yüksek makamdan ayrılmak zorunda kalmak."
+  },
+  {
+    "id": 316,
+    "soz": "Posta koymak",
+    "anlami": "Birini korkutmak, gözdağı vermek."
+  },
+  {
+    "id": 317,
+    "soz": "Postu kurtarmak",
+    "anlami": "Öldürülme tehlikesini atlatmak."
+  },
+  {
+    "id": 318,
+    "soz": "Pot kırmak",
+    "anlami": "Yersiz ve karşısındakine dokunacak söz söylemek, gaf yapmak."
+  },
+  {
+    "id": 319,
+    "soz": "Punduna getirmek",
+    "anlami": "Bir şeyi yapmak için uygun zamanı ve yeri seçmek. - DEYİMLER - 90"
+  },
+  {
+    "id": 320,
+    "soz": "Pusulayı şaşırmak",
+    "anlami": "Güç bir duruma düşerek ne yapacağını bilememek."
+  },
+  {
+    "id": 321,
+    "soz": "Put kesilmek",
+    "anlami": "Sessiz ve hareketsiz bir durum almak."
+  },
+  {
+    "id": 322,
+    "soz": "Rafa kaldırmak",
+    "anlami": "Savsamak , artık üstünde durmamak, ihmal etmek."
+  },
+  {
+    "id": 323,
+    "soz": "Rahat yüzü görmemek",
+    "anlami": "Hiç rahat etmemek."
+  },
+  {
+    "id": 324,
+    "soz": "Rayına girmek",
+    "anlami": "Bir iş, bir girişim düzene sokulmak, iyi bir duruma getirilmek."
+  },
+  {
+    "id": 325,
+    "soz": "Rengi atmak",
+    "anlami": "Korku , heyecan vb. sebeplerle benzi sararmak.326-Renk vermemek : Duygularını , düşüncelerini veya başka bir durumunu belli etmemek, bir şeyi bildiği hâlde bilmez gibi görünmek."
+  },
+  {
+    "id": 327,
+    "soz": "Renkten renge girmek",
+    "anlami": "Korkudan veya utançtan yüzünün rengi değişmek, sıkılmak."
+  },
+  {
+    "id": 328,
+    "soz": "Rüzgâr ekip fırtına biçmek",
+    "anlami": "Yaptığı bir kötülüğün çok daha kötüsü ile karşılaşmak."
+  },
+  {
+    "id": 329,
+    "soz": "Rüzgârdan nem kapmak",
+    "anlami": "En küçük bir şeyden alınmak, çok alıngan olmak."
+  },
+  {
+    "id": 330,
+    "soz": "Saat gibi işlemek",
+    "anlami": "Aksamadan , ara vermeden çalışmak. - DEYİMLER - 91"
+  },
+  {
+    "id": 331,
+    "soz": "Saati saatine uymamak",
+    "anlami": "Durumu , huyu sık sık değişmek."
+  },
+  {
+    "id": 332,
+    "soz": "Sabrı taşmak",
+    "anlami": "Artık katlanamaz, dayanamaz duruma gelmek, sabrı kalmamak."
+  },
+  {
+    "id": 333,
+    "soz": "Saçına ak düşmek",
+    "anlami": "Saçı ağarmaya başlamak, yaşlanmak."
+  },
+  {
+    "id": 334,
+    "soz": "Saçını başını yolmak",
+    "anlami": "Çok üzülmek, üzüntüsünden dövünmek."
+  },
+  {
+    "id": 335,
+    "soz": "Saçını süpürge etmek",
+    "anlami": "Kadın özveri ile çalışıp hizmet etmek."
+  },
+  {
+    "id": 336,
+    "soz": "Sağ gösterip sol vurmak",
+    "anlami": "Şaşırtmak.337-Sağ gözünü sol gözünden sakınmak : Çok kıskanç olmak."
+  },
+  {
+    "id": 338,
+    "soz": "Safra bastırmak",
+    "anlami": "Açlığını yatıştıracak kadar az bir şey yemek."
+  },
+  {
+    "id": 339,
+    "soz": "Sakalı ele vermek",
+    "anlami": "Başkasının sözünden çıkmayacak bir duruma düşmek."
+  },
+  {
+    "id": 340,
+    "soz": "Sakalına kar yağmak",
+    "anlami": "Sakalı aklaşmaya başlamak."
+  },
+  {
+    "id": 341,
+    "soz": "Sallantıda bırakmak",
+    "anlami": "Bir şeyi sonuca bağlamamak, savsaklamak."
+  },
+  {
+    "id": 342,
+    "soz": "Sallantıda kalmak",
+    "anlami": "Bir çözüme bağlanmamak. - DEYİMLER - 92"
+  },
+  {
+    "id": 343,
+    "soz": "Saman altından su yürütmek",
+    "anlami": "Belli etmeden iş çevirmek, ortalığı karıştırmak."
+  },
+  {
+    "id": 344,
+    "soz": "Sarpa sarmak",
+    "anlami": "Güçlükler ortaya çıkmak, çözülmesi çok güç bir duruma gelmek."
+  },
+  {
+    "id": 345,
+    "soz": "Sepet havası çalmak",
+    "anlami": "İşinden çıkarmak, sepetlemek."
+  },
+  {
+    "id": 346,
+    "soz": "Sermayeyi kediye yüklemek",
+    "anlami": "Parasını yiyip bitirmek."
+  },
+  {
+    "id": 347,
+    "soz": "Sevinci kursağında kalmak",
+    "anlami": "Bir engel sebebiyle hayal kırıklığına uğramak."
+  },
+  {
+    "id": 348,
+    "soz": "Sevinçten havalara uçmak",
+    "anlami": "Çok sevinmek."
+  },
+  {
+    "id": 349,
+    "soz": "Seyirci kalmak",
+    "anlami": "Bir olay karşısında hiçbir tepki göstermeyerek işe karışmamak.350-Sıfırdan başlamak : En baştan, hiçbir şeye sahip olmadan bir işe girişmek."
+  },
+  {
+    "id": 351,
+    "soz": "Sıfırı tüketmek",
+    "anlami": "Yoksul duruma gelmek, yoksullaşmak."
+  },
+  {
+    "id": 352,
+    "soz": "Sırra kadem basmak",
+    "anlami": "Bir kimse ortalıktan yok olmak, ortalıkta görünmemek."
+  },
+  {
+    "id": 353,
+    "soz": "Sırtından geçinmek",
+    "anlami": "Geçimini bir kimseden sağlamak."
+  },
+  {
+    "id": 354,
+    "soz": "Sırtı yere gelmemek",
+    "anlami": "Bir işte herhangi bir zorluk karşısında sarsılmamak, konumunu kaybetmemek, güçlü olmak."
+  },
+  {
+    "id": 355,
+    "soz": "Silip süpürmek",
+    "anlami": "Ne var ne yoksa hepsini yemek. - DEYİMLER - 93"
+  },
+  {
+    "id": 356,
+    "soz": "Sineye çekmek",
+    "anlami": "Kötü bir davranış, söz veya olaya ister istemez katlanmak."
+  },
+  {
+    "id": 357,
+    "soz": "Sinek avlamak",
+    "anlami": "Müşterisi olmayıp boş oturmak."
+  },
+  {
+    "id": 358,
+    "soz": "Son kozunu oynamak",
+    "anlami": "Elinde bulunan son imkânı kullanmak."
+  },
+  {
+    "id": 359,
+    "soz": "Son noktayı koymak",
+    "anlami": "Bir işte en son sözü söylemek."
+  },
+  {
+    "id": 360,
+    "soz": "Soyup soğana çevirmek",
+    "anlami": "Hiçbir şey bırakmamacasına soymak."
+  },
+  {
+    "id": 361,
+    "soz": "Söz vermek",
+    "anlami": "Bir işi yapacağını kesinlikle bildirmek.362-Sözü ağzına tıkamak : Birinin rahatça konuşmasını engelleyip susturmak, söylemesine imkân tanımamak."
+  },
+  {
+    "id": 363,
+    "soz": "Sözü ağzında gevelemek",
+    "anlami": "Söylemek istediğini söyleyememek."
+  },
+  {
+    "id": 364,
+    "soz": "Sözü dağıtmak",
+    "anlami": "Konuşurken birçok konuya değinerek anlatmak isteği konudan uzaklaşmak."
+  },
+  {
+    "id": 365,
+    "soz": "Sucuk gibi ıslanmak",
+    "anlami": "Baştan aşağı ıslanmak."
+  },
+  {
+    "id": 366,
+    "soz": "Su gibi ezberlemek",
+    "anlami": "Yanlışsız okuyabilecek kadar ezberlemek. - DEYİMLER - 94"
+  },
+  {
+    "id": 367,
+    "soz": "Sudan çıkmış balığa dönmek",
+    "anlami": "Herhangi bir sebeple ne yapacağını bilememek, çok şaşırmak."
+  },
+  {
+    "id": 368,
+    "soz": "Suratından düşen binparça olmak",
+    "anlami": "Öfke veya küskünlükten ileri gelen can sıkıntısıyla suratı asık olmak."
+  },
+  {
+    "id": 369,
+    "soz": "Suratını ekşitmek",
+    "anlami": "Yüzüne memnun olmadığını belirten bir anlam vermek."
+  },
+  {
+    "id": 370,
+    "soz": "Suya götürüp susuz getirmek",
+    "anlami": "Herhangi bir işte akıl, zekâ, deneyim ve kurnazlıkla bir diğerini alt etmek."
+  },
+  {
+    "id": 371,
+    "soz": "Suya sabuna dokunmamak",
+    "anlami": "Davranışlarını kimseyi incitmeyecek biçimde ayarlamak.372-Suyunca gitmek : Bir kimseyi sinirlendirmeyecek biçimde davranmak."
+  },
+  {
+    "id": 373,
+    "soz": "Sünger çekmek",
+    "anlami": "Bir şeyi hiç olmamış saymak, silmek, silip atmak, unutmak."
+  },
+  {
+    "id": 374,
+    "soz": "Sürüden ayrılmak",
+    "anlami": "Herkesin tuttuğu yolu bırakıp ayrı bir yol tutturmak, herkesin yaptığını yapmamak."
+  },
+  {
+    "id": 375,
+    "soz": "Sürüncemede kalmak",
+    "anlami": "Bir iş sonuçlanıncaya kadar boş yere gecikmek, uzamak, askıda kalmak, bir türlü sonuçlanamamak."
+  },
+  {
+    "id": 376,
+    "soz": "Sütüne havale etmek",
+    "anlami": "İşi, beklenen biçimde yapmasını o kişinin vicdanına bırakmak. - DEYİMLER - 95"
+  },
+  {
+    "id": 377,
+    "soz": "Şafak atmak",
+    "anlami": "Öfkelenmek."
+  },
+  {
+    "id": 378,
+    "soz": "Şeytana pabucu ters giydirmek",
+    "anlami": "Çok kurnaz olmak."
+  },
+  {
+    "id": 379,
+    "soz": "Şeytanın bacağını kırmak",
+    "anlami": "Uğursuzluğu , şanssızlığı, aksiliği yenmek."
+  },
+  {
+    "id": 380,
+    "soz": "Şifayı bulmak",
+    "anlami": "Hastalanmak veya hastalığı artmak"
+  },
+  {
+    "id": 381,
+    "soz": "Taban tepmek",
+    "anlami": "Uzun yol yürümek."
+  },
+  {
+    "id": 382,
+    "soz": "Tabanları yağlamak",
+    "anlami": "Uzak bir yere yayan gitmeye hazırlanmak."
+  },
+  {
+    "id": 383,
+    "soz": "Tadı damağında kalmak Hoşa giden, zevk alınan bir şeyi unutamamak.384-Tadı tuzu kalmamak",
+    "anlami": "Eski zevki kalmamak, yavanlaşmak."
+  },
+  {
+    "id": 385,
+    "soz": "Tadına doyum olmamak",
+    "anlami": "Herhangi bir şey çok beğenilmek."
+  },
+  {
+    "id": 386,
+    "soz": "Tadında bırakmak",
+    "anlami": "Güzel giden bir şeyi tatsız bir duruma sokacak ölçüsüzlüğe vardırmamak."
+  },
+  {
+    "id": 387,
+    "soz": "Takıp takıştırmak",
+    "anlami": "Özenerek süslenmek."
+  },
+  {
+    "id": 388,
+    "soz": "Tam adamına çatmak",
+    "anlami": "Olumsuz bir davranış ve tutum içinde bulunan kimseyle karşı karşıya gelmek."
+  },
+  {
+    "id": 389,
+    "soz": "Tam üstüne basmak",
+    "anlami": "Doğru olanı, istenileni bulmak. - DEYİMLER - 96"
+  },
+  {
+    "id": 390,
+    "soz": "Tarihe karışmak",
+    "anlami": "Unutulmak , yalnız adı kalmak."
+  },
+  {
+    "id": 391,
+    "soz": "Tası tarağı toplamak",
+    "anlami": "Gitmek üzere bütün eşyasını toplamak."
+  },
+  {
+    "id": 392,
+    "soz": "Taşı gediğine koymak",
+    "anlami": "Gerekli bir sözü tam zamanında ve yerinde söyleyerek karşısındaki kimseyi susturmak , zekice davranmak."
+  },
+  {
+    "id": 393,
+    "soz": "Tefe koymak",
+    "anlami": "Biri hakkında alaylı dedikodu yapmak."
+  },
+  {
+    "id": 394,
+    "soz": "Tencerede pişirip kapağında yemek",
+    "anlami": "Geçinme konusunda var olanla yetinmek."
+  },
+  {
+    "id": 395,
+    "soz": "Tepeden bakmak",
+    "anlami": "Küçümsemek.396-Tepesinde havan dövmek : Üst katta oturan biri, gürültü yaparak alt kattakini rahatsız etmek."
+  },
+  {
+    "id": 397,
+    "soz": "Tepesine binmek",
+    "anlami": "Genellikle kendinden daha güçsüz kimseleri ezmek, kötü davranmak."
+  },
+  {
+    "id": 398,
+    "soz": "Tepeden tırnağa süzmek",
+    "anlami": "Herhangi bir sebeple birine dikkatlice bakmak."
+  },
+  {
+    "id": 399,
+    "soz": "Tepesinden kaynar sular dökülmek",
+    "anlami": "Üzüntülü veya kötü bir olay karşısında birdenbire büyük bir sıkıntı duymak."
+  },
+  {
+    "id": 400,
+    "soz": "Tepesinin tası atmak",
+    "anlami": "Birdenbire çok sinirlenmek. - DEYİMLER - 97"
+  },
+  {
+    "id": 401,
+    "soz": "Tereciye tere satmak",
+    "anlami": "Birine çok iyi bildiği bir şeyi öğretmeye kalkmak."
+  },
+  {
+    "id": 402,
+    "soz": "Ters düşmek",
+    "anlami": "Aykırı durumda olmak, karşıt olmak"
+  },
+  {
+    "id": 403,
+    "soz": "Ters tarafından kalkmak",
+    "anlami": "Aksiliği , huysuzluğu, tersliği üzerinde olmak."
+  },
+  {
+    "id": 404,
+    "soz": "Tersine dönmek",
+    "anlami": "Beklenildiği , umulduğu gibi gerçekleşmemek, aksi olmak."
+  },
+  {
+    "id": 405,
+    "soz": "Teselli bulmak",
+    "anlami": "Avunmak."
+  },
+  {
+    "id": 406,
+    "soz": "Tezgâhı kurmak",
+    "anlami": "İşe başlamak üzere çalışma araçlarını hazırlamak, çalışmaya başlamak.407-Tıka basa doldurmak : Doldururken çok bastırıp sıkıştırmak."
+  },
+  {
+    "id": 408,
+    "soz": "Tıka basa yemek",
+    "anlami": "Mideye sıkıntı verecek kadar çok yemek."
+  },
+  {
+    "id": 409,
+    "soz": "Tilki uykusuna yatmak",
+    "anlami": "Uyuyormuş gibi yaparak fırsat kollamak."
+  },
+  {
+    "id": 410,
+    "soz": "Tongaya basmak",
+    "anlami": "Kendisini kötü bir duruma düşürmek için hazırlanan bir düzene uğramak, tuzağa düşmek."
+  },
+  {
+    "id": 411,
+    "soz": "Topa tutmak",
+    "anlami": "Kötü eleştiri amaçlı saldırmak. - DEYİMLER - 98"
+  },
+  {
+    "id": 412,
+    "soz": "Toz kondurmamak",
+    "anlami": "Bir şeyde herhangi bir kusurun varlığını kabul etmemek, bir şeyi kusursuz göstermek."
+  },
+  {
+    "id": 413,
+    "soz": "Tozu dumana katmak",
+    "anlami": "Ortalığı altüst etmek."
+  },
+  {
+    "id": 414,
+    "soz": "Treni kaçırmak",
+    "anlami": "Bir şeyi elde etme, bir işi gerçekleştirme fırsatını ve imkânını yitirmek."
+  },
+  {
+    "id": 415,
+    "soz": "Turnayı gözünden vurmak",
+    "anlami": "Umulmadık bir kazanç veya çıkar sağlama imkânı ele geçirmek."
+  },
+  {
+    "id": 416,
+    "soz": "Turşusunu kurmak",
+    "anlami": "Bir şeyin elden çıkarılması gerektiği hâlde buna bir türlü kıyamamak."
+  },
+  {
+    "id": 417,
+    "soz": "Turşuya dönmek",
+    "anlami": "Çok yorulmak, bitkinleşmek.418-Tuttuğu dal elinde kalmak : Dayandığı , güvendiği kimse veya şey önemini yitirerek işe yaramaz duruma gelmek."
+  },
+  {
+    "id": 419,
+    "soz": "Tuttuğunu koparmak",
+    "anlami": "Becerikli olmak, giriştiği her işte başarı sağlamak."
+  },
+  {
+    "id": 420,
+    "soz": "Tuzluya mal olmak",
+    "anlami": "Çok para vererek satın almak, çok pahalı gelmek."
+  },
+  {
+    "id": 421,
+    "soz": "Tükürdüğünü yalamak",
+    "anlami": "Verdiği sözden benliğini küçülterek geri dönmek."
+  },
+  {
+    "id": 422,
+    "soz": "Türkü yakmak",
+    "anlami": "Türkü sözünü bestelemek. - DEYİMLER - 99"
+  },
+  {
+    "id": 423,
+    "soz": "Tüyleri diken diken olmak",
+    "anlami": "Üşümekten veya korkmaktan vücuttaki kılların dipleri kabarıp kıllar dikilmek."
+  },
+  {
+    "id": 424,
+    "soz": "Tüyleri ürpermek",
+    "anlami": "Kötü bir olay, soğuk, gıcıklanma vb. sebeplerle korku veya tiksinti duymak."
+  },
+  {
+    "id": 425,
+    "soz": "Ucuz atlatmak",
+    "anlami": "Zor veya tehlikeli durumdan az zararla sıyrılmak."
+  },
+  {
+    "id": 426,
+    "soz": "Ucu bucağı olmamak",
+    "anlami": "Başı sonu olmamak."
+  },
+  {
+    "id": 427,
+    "soz": "Uçan kuşa borcu olmak",
+    "anlami": "Pek çok kişiye borçlu olma."
+  },
+  {
+    "id": 428,
+    "soz": "Umudu boşa çıkmak",
+    "anlami": "Beklentisi , umudu gerçekleşmemek, hayal kırıklığına uğramak.429-Umudunu kesmek : Artık olacağını beklememek."
+  },
+  {
+    "id": 430,
+    "soz": "Uyku bastırmak",
+    "anlami": "Çok uykusu gelmek."
+  },
+  {
+    "id": 431,
+    "soz": "Üstünde durmak",
+    "anlami": "Bir işe önem vermek, bir işle yakından ve sürekli ilgilenmek."
+  },
+  {
+    "id": 432,
+    "soz": "Üstüne alınmak",
+    "anlami": "Bir davranışın kendisine karşı olduğunu sanarak tedirgin olmak, alınmak."
+  },
+  {
+    "id": 433,
+    "soz": "Üstüne toz kondurmamak",
+    "anlami": "Bir şeyin veya kimsenin kusurlu olabileceğini kabul etmemek."
+  },
+  {
+    "id": 434,
+    "soz": "Üstüne üstüne gitmek",
+    "anlami": "Çekinmeden sonucu tehlikeli olabilecek bir şeyle uğraşmak, yılmamak. - DEYİMLER - 100"
+  },
+  {
+    "id": 435,
+    "soz": "Üstüne vazife olmamak",
+    "anlami": "Görevi olmamak, o görev kendini ilgilendirmemek."
+  },
+  {
+    "id": 436,
+    "soz": "Vakit öldürmek",
+    "anlami": "Zamanı yararsız, gereksiz işlerle veya iş yapmadan geçirmek."
+  },
+  {
+    "id": 437,
+    "soz": "Varlıkta darlık çekmek",
+    "anlami": "Herhangi bir engel yüzünden elindeki imkândan yararlanamamak."
+  },
+  {
+    "id": 438,
+    "soz": "Vebal altında kalmak",
+    "anlami": "Manevi sorumluluk yüklenmek."
+  },
+  {
+    "id": 439,
+    "soz": "Volta atmak",
+    "anlami": "Bir aşağı bir yukarı dolaşmak."
+  },
+  {
+    "id": 440,
+    "soz": "Yabancılık çekmek",
+    "anlami": "Bir iş veya çevrede yabancı olmaktan doğan güçlüklere uğramak.441-Yağmasa da gürlemek : Elinden bir şey gelmese de sözle destek vermek."
+  },
+  {
+    "id": 442,
+    "soz": "Yağıp gürlemek",
+    "anlami": "Birden çok sinirlenmek."
+  },
+  {
+    "id": 443,
+    "soz": "Yağmur yağarken küpünü doldurmak",
+    "anlami": "Fırsat varken ondan yararlanıp para veya mal edinmek."
+  },
+  {
+    "id": 444,
+    "soz": "Yağmurdan kaçarken doluya tutulmak",
+    "anlami": "Güç bir durumdan kurtulayım derken daha kötüsüyle karşılaşmak."
+  },
+  {
+    "id": 445,
+    "soz": "Yakasına yapışmak",
+    "anlami": "Hesap sormak veya bir şey istemek için tutup bırakmamak. - DEYİMLER - 101"
+  },
+  {
+    "id": 446,
+    "soz": "Yakasını bırakmamak",
+    "anlami": "Bezdirecek kadar üstüne düşmek, rahat vermemek, ısrar etmek."
+  },
+  {
+    "id": 447,
+    "soz": "Yakayı ele vermek",
+    "anlami": "Kaçamayarak ele geçmek, yakalanmak."
+  },
+  {
+    "id": 448,
+    "soz": "Yakışık almamak",
+    "anlami": "Yerinde olmamak, uygun düşmemek."
+  },
+  {
+    "id": 449,
+    "soz": "Yan çizmek",
+    "anlami": "Bir işten kaçmak ."
+  },
+  {
+    "id": 450,
+    "soz": "Yan gelip yatmak",
+    "anlami": "Bir işe karışmayarak rahatına bakmak, keyfince yaşamak."
+  },
+  {
+    "id": 451,
+    "soz": "Yan gözle bakmak",
+    "anlami": "Belli etmeden, göz ucuyla bakmak."
+  },
+  {
+    "id": 452,
+    "soz": "Yanına bırakmamak",
+    "anlami": "Cezasız bırakmamak, öç almak.453-Yanına kâr kalmak : Cezasız kalmak."
+  },
+  {
+    "id": 454,
+    "soz": "Yangına körükle gitmek",
+    "anlami": "Gerginliği , uzlaşmazlığı artıracak biçimde davranmak ."
+  },
+  {
+    "id": 455,
+    "soz": "Yanlış kapı çalmak",
+    "anlami": "İsteğinin yapılmayacağı, yersiz sayılacağı bir yere başvurmak."
+  },
+  {
+    "id": 456,
+    "soz": "Yaraya merhem olmak",
+    "anlami": "Zorunlu ihtiyacı karşılamak."
+  },
+  {
+    "id": 457,
+    "soz": "Yaraya tuz biber ekmek",
+    "anlami": "Bir derdin acısını çoğaltmak."
+  },
+  {
+    "id": 458,
+    "soz": "Yarı yolda bırakmak",
+    "anlami": "Yapılan yardımı sonuna kadar sürdürmemek."
+  },
+  {
+    "id": 459,
+    "soz": "Yaş akıtmak",
+    "anlami": "Ağlamak. - DEYİMLER - 102"
+  },
+  {
+    "id": 460,
+    "soz": "Yaş tahtaya basmamak",
+    "anlami": "Bir işte uyanık davranarak aldanmamak."
+  },
+  {
+    "id": 461,
+    "soz": "Yatak yorgan yatmak",
+    "anlami": "Ağır hasta olmak."
+  },
+  {
+    "id": 462,
+    "soz": "Yaygarayı basmak",
+    "anlami": "Bağırıp çağırmak."
+  },
+  {
+    "id": 463,
+    "soz": "Yelkenleri suya indirmek",
+    "anlami": "Direnmekten vazgeçip karşısındakinin dediğini benimsemek, kabul etmek."
+  },
+  {
+    "id": 464,
+    "soz": "Yer yarılıp içine girmek",
+    "anlami": "Yitirilip bir türlü bulamamak."
+  },
+  {
+    "id": 465,
+    "soz": "Yerden yere vurmak",
+    "anlami": "Birine türlü yönlerden saldırarak onu çok aşağılayıcı bir duruma düşürmek.466-Yere çalmak : Yere atmak, yere fırlatmak."
+  },
+  {
+    "id": 467,
+    "soz": "Yeri göğü birbirine katmak",
+    "anlami": "Aşırı telaş yaratmak."
+  },
+  {
+    "id": 468,
+    "soz": "Yerin dibine geçmek",
+    "anlami": "Çok utanıp sıkılmak."
+  },
+  {
+    "id": 469,
+    "soz": "Yerinde yeller esmek",
+    "anlami": "Artık bulunmamak, yok olmak."
+  },
+  {
+    "id": 470,
+    "soz": "Yerle bir etmek",
+    "anlami": "Temeline kadar yok etmek, tahrip etmek."
+  },
+  {
+    "id": 471,
+    "soz": "Yeşil ışık yakmak",
+    "anlami": "Uygun olabileceğini, izin verilebileceğini belli etmek."
+  },
+  {
+    "id": 472,
+    "soz": "Yılanın kuyruğuna basmak",
+    "anlami": "Kötü bir kimseye kötülük yapacak fırsat vermek. - DEYİMLER - 103"
+  },
+  {
+    "id": 473,
+    "soz": "Yıldızları barışmamak",
+    "anlami": "Görüş , duygu ve düşünce bakımından uyuşmamak."
+  },
+  {
+    "id": 474,
+    "soz": "Yoluna can vermek",
+    "anlami": "Birinin uğruna ölmek."
+  },
+  {
+    "id": 475,
+    "soz": "Yuları birinin elinde olmak",
+    "anlami": "Bir kimsenin davranışları birinin denetiminde, yönetiminde olmak."
+  },
+  {
+    "id": 476,
+    "soz": "Yuları ele kaptırmak",
+    "anlami": "Birinin sözünden çıkmayacak duruma gelmek, kendi iradesiyle davranmamak."
+  },
+  {
+    "id": 477,
+    "soz": "Yumurta kapıya dayanmak",
+    "anlami": "Yapılacak iş için zaman çok daralmak."
+  },
+  {
+    "id": 478,
+    "soz": "Yumurtaya kulp takmak",
+    "anlami": "Bahane bulmakta usta olmak.479-Yuvasını bozmak : Ev ve aile düzenini dağıtmak."
+  },
+  {
+    "id": 480,
+    "soz": "Yük altına girmek",
+    "anlami": "Ağır bir görevi üzerine almak."
+  },
+  {
+    "id": 481,
+    "soz": "Yüreği ağzına gelmek",
+    "anlami": "Birdenbire çok korkmak, aşırı korku veya sevinçten fazlasıyla heyecanlanmak, endişelenmek."
+  },
+  {
+    "id": 482,
+    "soz": "Yüreği hop etmek",
+    "anlami": "Birdenbire korkup heyecanlanmak."
+  },
+  {
+    "id": 483,
+    "soz": "Yüreği kan ağlamak",
+    "anlami": "Derinden acı duymak, çok üzülmek."
+  },
+  {
+    "id": 484,
+    "soz": "Yüreğine ateş düşmek",
+    "anlami": "Felakete uğramak, çok üzülmek. - DEYİMLER - 104"
+  },
+  {
+    "id": 485,
+    "soz": "Yüreğine su serpmek",
+    "anlami": "Bir kimseyi kaygı sebebinin ortadan kalkmasıyla veya yeniden umut verecek bir haberle ferahlatmak."
+  },
+  {
+    "id": 486,
+    "soz": "Yüz verince astar istemek",
+    "anlami": "Kendisine gösterilen küçük bir ilgiden şımararak geniş yetki elde etmeye, daha çok yarar sağlamaya çalışmak."
+  },
+  {
+    "id": 487,
+    "soz": "Yüzüne hasret kalmak",
+    "anlami": "Birinden veya bir şeyden yoksun kalmak, özlemek."
+  },
+  {
+    "id": 488,
+    "soz": "Yüzüne kan gelmek",
+    "anlami": "Sağlığı yerine gelmek, benzinin solgunluğu geçmek."
+  },
+  {
+    "id": 489,
+    "soz": "Yüzünü güldürmek",
+    "anlami": "Birini mutlu etmek, birine iyilik etmek.490-Yüzünü kara çıkarmak : Birini utandırmak."
+  },
+  {
+    "id": 491,
+    "soz": "Yüzüp yüzüp kuyruğuna gelmek",
+    "anlami": "Uzun sürmüş bir işi bitirmek üzere olmak."
+  },
+  {
+    "id": 492,
+    "soz": "Zeval vermemek",
+    "anlami": "Yok etmemek, sona erdirmemek."
+  },
+  {
+    "id": 493,
+    "soz": "Zeytinyağı gibi üste çıkmak",
+    "anlami": "Bir sorunda haksız olduğunu kabul etmemek, ustalıkla kendini haklı çıkarmaya çalışmak."
+  },
+  {
+    "id": 494,
+    "soz": "Zıvanadan çıkmak",
+    "anlami": "Çok sinirlenmek, öfkelenmek. - DEYİMLER - 105"
+  },
+  {
+    "id": 495,
+    "soz": "Zihnini kurcalamak",
+    "anlami": "Bir şey sık sık hatırlanıp insanı düşündürmek."
+  },
+  {
+    "id": 496,
+    "soz": "Zil takıp oynamak",
+    "anlami": "Çok sevindiğini belli etmek."
+  },
+  {
+    "id": 497,
+    "soz": "Zirveye çıkmak",
+    "anlami": "En üst düzeyde ilgi çekmek, herkes tarafından konuşulur olmak."
+  },
+  {
+    "id": 498,
+    "soz": "Zokayı yutmak",
+    "anlami": "Aldatılarak büyük zarara uğramak."
+  },
+  {
+    "id": 499,
+    "soz": "Züğürt tesellisi",
+    "anlami": "Kavuştuğu önemsiz şeyin,elde edemediği önemli şeyleri aratmadığını söyleyerek kendini avutma."
+  },
+  {
+    "id": 500,
+    "soz": "Zülfü yare dokunmak",
+    "anlami": "Kırılması doğru olmayan kişileri gücendirecek söz söylemek, davranışta bulunmak . - DEYİMLER - 106"
+  }
+]
